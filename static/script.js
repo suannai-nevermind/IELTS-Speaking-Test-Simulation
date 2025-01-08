@@ -602,10 +602,32 @@ function autoAdvance() {
     });
 
     if (currentQuestionIndex < questions.length - 1) {
-        // 还有下一题
+        // 还有下一题，显示引导语后进入下一题
         currentQuestionIndex++;
-        console.log('进入下一题:', currentQuestionIndex);
-        showQuestion();
+        
+        // 根据不同部分显示不同的引导语
+        const questionText = document.getElementById('question');
+        const originalQuestion = questions[currentQuestionIndex].question;
+        
+        if (currentPart === 'part1') {
+            questionText.textContent = "Fine.";
+            speak("Fine.", () => {
+                setTimeout(() => {
+                    questionText.textContent = originalQuestion;
+                    showQuestion();
+                }, 200);
+            });
+        } else if (currentPart === 'part3') {
+            questionText.textContent = "Let's move on to the next question.";
+            speak("Let's move on to the next question.", () => {
+                setTimeout(() => {
+                    questionText.textContent = originalQuestion;
+                    showQuestion();
+                }, 200);
+            });
+        } else {
+            showQuestion();
+        }
     } else {
         // 当前部分已完成，进入下一部分
         console.log('当前部分完成，准备切换到下一部分');
@@ -619,7 +641,6 @@ function autoAdvance() {
         }
     }
 }
-
 function finishExam() {
     console.log('考试完成');
     stopTimer();
