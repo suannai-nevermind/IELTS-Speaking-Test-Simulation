@@ -288,8 +288,8 @@ async function selectPart(part) {
         currentPart = part;
         console.log('切换到部分:', part);
         
-        // 直接从 questions.json 加载题目
-        const response = await fetch('questions/questions.json');
+        // 使用绝对路径加载题目
+        const response = await fetch('/IELTS-Speaking-Test-Simulation/questions/questions.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -319,6 +319,9 @@ async function selectPart(part) {
         timeLeft = 0;
         updateTimerDisplay();
         
+        // 更新进度条
+        updateProgressBar(part);
+        
         // 显示引导语
         await showIntroduction();
         
@@ -328,6 +331,7 @@ async function selectPart(part) {
         const questionDiv = document.getElementById('question');
         if (topicDiv) topicDiv.textContent = 'Error';
         if (questionDiv) questionDiv.textContent = error.message;
+        alert('加载题目失败，请检查网络连接或联系管理员。');
     }
 }
 
@@ -641,6 +645,7 @@ function autoAdvance() {
         }
     }
 }
+
 function finishExam() {
     console.log('考试完成');
     stopTimer();
