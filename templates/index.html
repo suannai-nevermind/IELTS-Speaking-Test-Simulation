@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS Speaking Test Simulation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>IELTS Speaking Test Simulation</h1>
+        
+        <div class="part-selector">
+            <button onclick="selectPart('part1')">Part 1</button>
+            <button onclick="selectPart('part2')">Part 2</button>
+            <button onclick="selectPart('part3')">Part 3</button>
+        </div>
+
+        <div id="question-content" style="display: none;">
+            <div class="examiner-photo">
+                <img src="{{ url_for('static', filename='images/examiner.jpg') }}" alt="Examiner">
+            </div>
+            <div class="question-text">
+                <h2 id="topic"></h2>
+                <p id="question"></p>
+                <div id="cue-card" style="display: none;">
+                    <ul id="cue-points"></ul>
+                </div>
+                <div id="timer">0:00</div>
+                <div class="controls">
+                    <button id="start-btn">Start</button>
+                    <button id="stop-btn" disabled>Stop</button>
+                    <button id="next-btn" style="display: none;">Next</button>
+                </div>
+                <div class="recording-controls">
+                    <button id="record-btn" class="record-btn">
+                        <span class="record-icon"></span>
+                        Start Recording
+                    </button>
+                    <div id="recording-status" class="recording-status">
+                        <span class="status-text">Not Recording</span>
+                        <span class="recording-time">00:00</span>
+                    </div>
+                    <div id="save-status" class="save-status"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+    <style>
+    .recording-controls {
+        margin-top: 20px;
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .record-btn {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 16px;
+        border: none;
+        border-radius: 4px;
+        background-color: #f44336;
+        color: white;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    .record-btn:hover {
+        background-color: #d32f2f;
+    }
+
+    .record-btn.recording {
+        background-color: #f44336;
+        animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+        0% {
+            opacity: 1;
+        }
+        50% {
+            opacity: 0.7;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .record-icon {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background-color: white;
+    }
+
+    .record-btn.recording .record-icon {
+        animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+        0% {
+            opacity: 1;
+        }
+        50% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .recording-status {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 14px;
+    }
+
+    .recording-time {
+        font-family: monospace;
+        font-weight: bold;
+    }
+
+    .save-status {
+        margin-top: 5px;
+        font-size: 14px;
+        color: #4caf50;
+    }
+    </style>
+</body>
+</html> 

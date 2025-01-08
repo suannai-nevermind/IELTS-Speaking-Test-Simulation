@@ -1,0 +1,7137 @@
+﻿{
+  "part1": [
+    {
+      "id": 1,
+      "topic": "Work/Study",
+      "question": "What subjects are you studying?",
+      "time": 30
+    },
+    {
+      "id": 2,
+      "topic": "Work/Study",
+      "question": "Do you like your subject?",
+      "time": 30
+    },
+    {
+      "id": 3,
+      "topic": "Work/Study",
+      "question": "Why did you choose to study that subject?",
+      "time": 30
+    },
+    {
+      "id": 4,
+      "topic": "Work/Study",
+      "question": "Do you think that your subject is popular in your country?",
+      "time": 30
+    },
+    {
+      "id": 5,
+      "topic": "Work/Study",
+      "question": "Do you have any plans for your studies in the next five years?",
+      "time": 30
+    },
+    {
+      "id": 6,
+      "topic": "Work/Study",
+      "question": "What are the benefits of being your age?",
+      "time": 30
+    },
+    {
+      "id": 7,
+      "topic": "Work/Study",
+      "question": "Do you want to change your major?",
+      "time": 30
+    },
+    {
+      "id": 8,
+      "topic": "Work/Study",
+      "question": "Do you prefer to study in the mornings or in the afternoons?",
+      "time": 30
+    },
+    {
+      "id": 9,
+      "topic": "Work/Study",
+      "question": "How much time do you spend on your studies each week?",
+      "time": 30
+    },
+    {
+      "id": 10,
+      "topic": "Work/Study",
+      "question": "Are you looking forward to working?",
+      "time": 30
+    },
+    {
+      "id": 11,
+      "topic": "Work/Study",
+      "question": "What technology do you use when you study?",
+      "time": 30
+    },
+    {
+      "id": 12,
+      "topic": "Work/Study",
+      "question": "What changes would you like to see in your school?",
+      "time": 30
+    },
+    {
+      "id": 13,
+      "topic": "Work/Study",
+      "question": "What work do you do?",
+      "time": 30
+    },
+    {
+      "id": 14,
+      "topic": "Work/Study",
+      "question": "Why did you choose to do that type of work (or that job)?",
+      "time": 30
+    },
+    {
+      "id": 15,
+      "topic": "Work/Study",
+      "question": "Do you like your job?",
+      "time": 30
+    },
+    {
+      "id": 16,
+      "topic": "Work/Study",
+      "question": "What requirements did you need to meet to get your current job?",
+      "time": 30
+    },
+    {
+      "id": 17,
+      "topic": "Work/Study",
+      "question": "Do you have any plans for your work in the next five years?",
+      "time": 30
+    },
+    {
+      "id": 18,
+      "topic": "Work/Study",
+      "question": "What do you think is the most important at the moment?",
+      "time": 30
+    },
+    {
+      "id": 19,
+      "topic": "Work/Study",
+      "question": "Do you want to change to another job?",
+      "time": 30
+    },
+    {
+      "id": 20,
+      "topic": "Work/Study",
+      "question": "Do you miss being a student?",
+      "time": 30
+    },
+    {
+      "id": 21,
+      "topic": "Work/Study",
+      "question": "What technology do you use at work?",
+      "time": 30
+    },
+    {
+      "id": 22,
+      "topic": "Work/Study",
+      "question": "Who helps you the most? And how?",
+      "time": 30
+    },
+    {
+      "id": 23,
+      "topic": "Home/accommodation",
+      "question": "What kind of house or apartment do you want to live in in the future?",
+      "time": 30
+    },
+    {
+      "id": 24,
+      "topic": "Home/accommodation",
+      "question": "Are the transport facilities to your home very good?",
+      "time": 30
+    },
+    {
+      "id": 25,
+      "topic": "Home/accommodation",
+      "question": "Do you prefer living in a house or an apartment?",
+      "time": 30
+    },
+    {
+      "id": 26,
+      "topic": "Home/accommodation",
+      "question": "Please describe the room you live in.",
+      "time": 30
+    },
+    {
+      "id": 27,
+      "topic": "Home/accommodation",
+      "question": "What part of your home do you like the most?",
+      "time": 30
+    },
+    {
+      "id": 28,
+      "topic": "Home/accommodation",
+      "question": "How long have you lived there?",
+      "time": 30
+    },
+    {
+      "id": 29,
+      "topic": "Home/accommodation",
+      "question": "Do you plan to live there for a long time?",
+      "time": 30
+    },
+    {
+      "id": 30,
+      "topic": "Home/accommodation",
+      "question": "What's the difference between where you are living now and where you have lived in the past?",
+      "time": 30
+    },
+    {
+      "id": 31,
+      "topic": "Home/accommodation",
+      "question": "Can you describe the place where you live?",
+      "time": 30
+    },
+    {
+      "id": 32,
+      "topic": "Home/accommodation",
+      "question": "What room does your family spend most of the time in?",
+      "time": 30
+    },
+    {
+      "id": 33,
+      "topic": "Home/accommodation",
+      "question": "What's your favorite room in your apartment or house?",
+      "time": 30
+    },
+    {
+      "id": 34,
+      "topic": "Home/accommodation",
+      "question": "What makes you feel pleasant in your home?",
+      "time": 30
+    },
+    {
+      "id": 35,
+      "topic": "Home/accommodation",
+      "question": "Do you think it is important to live in a comfortable environment?",
+      "time": 30
+    },
+    {
+      "id": 36,
+      "topic": "Home/accommodation",
+      "question": "Do you live in an apartment or a house?",
+      "time": 30
+    },
+    {
+      "id": 37,
+      "topic": "Home/accommodation",
+      "question": "Who do you live with?",
+      "time": 30
+    },
+    {
+      "id": 38,
+      "topic": "Home/accommodation",
+      "question": "What do you usually do in your apartment?",
+      "time": 30
+    },
+    {
+      "id": 39,
+      "topic": "Home/accommodation",
+      "question": "What kinds of accommodation do you live in?",
+      "time": 30
+    },
+    {
+      "id": 40,
+      "topic": "Hometown",
+      "question": "Where is your hometown?",
+      "time": 30
+    },
+    {
+      "id": 41,
+      "topic": "Hometown",
+      "question": "Is that a big city or a small place?",
+      "time": 30
+    },
+    {
+      "id": 42,
+      "topic": "Hometown",
+      "question": "Please describe your hometown a little.",
+      "time": 30
+    },
+    {
+      "id": 43,
+      "topic": "Hometown",
+      "question": "How long have you been living there?",
+      "time": 30
+    },
+    {
+      "id": 44,
+      "topic": "Hometown",
+      "question": "Do you think you will continue living there for a long time?",
+      "time": 30
+    },
+    {
+      "id": 45,
+      "topic": "Hometown",
+      "question": "Do you like your hometown?",
+      "time": 30
+    },
+    {
+      "id": 46,
+      "topic": "Hometown",
+      "question": "Do you like living there?",
+      "time": 30
+    },
+    {
+      "id": 47,
+      "topic": "Hometown",
+      "question": "What do you like (most) about your hometown?",
+      "time": 30
+    },
+    {
+      "id": 48,
+      "topic": "Hometown",
+      "question": "Is there anything you dislike about it?",
+      "time": 30
+    },
+    {
+      "id": 49,
+      "topic": "Hometown",
+      "question": "What's your hometown famous for?",
+      "time": 30
+    },
+    {
+      "id": 50,
+      "topic": "Hometown",
+      "question": "Did you learn about the history of your hometown at school?",
+      "time": 30
+    },
+    {
+      "id": 51,
+      "topic": "Hometown",
+      "question": "Are there many young people in your hometown?",
+      "time": 30
+    },
+    {
+      "id": 52,
+      "topic": "Hometown",
+      "question": "Is your hometown a good place for young people to pursue their careers?",
+      "time": 30
+    },
+    {
+      "id": 53,
+      "topic": "Hometown",
+      "question": "Have you learned anything about the history of your hometown?",
+      "time": 30
+    },
+    {
+      "id": 54,
+      "topic": "Hometown",
+      "question": "Did you learn about the culture of your hometown in your childhood?",
+      "time": 30
+    },
+    {
+      "id": 55,
+      "topic": "The area you live in",
+      "question": "Do you like the area that you live in?",
+      "time": 30
+    },
+    {
+      "id": 56,
+      "topic": "The area you live in",
+      "question": "Where do you like to go in that area?",
+      "time": 30
+    },
+    {
+      "id": 57,
+      "topic": "The area you live in",
+      "question": "Do you know any famous people in your area?",
+      "time": 30
+    },
+    {
+      "id": 58,
+      "topic": "The area you live in",
+      "question": "What are some changes in the area recently?",
+      "time": 30
+    },
+    {
+      "id": 59,
+      "topic": "The area you live in",
+      "question": "Do you know any of your neighbors?",
+      "time": 30
+    },
+    {
+      "id": 60,
+      "topic": "The area you live in",
+      "question": "Are the people in your neighborhood nice and friendly?",
+      "time": 30
+    },
+    {
+      "id": 61,
+      "topic": "The area you live in",
+      "question": "Do you live in a noisy or a quiet area?",
+      "time": 30
+    },
+    {
+      "id": 62,
+      "topic": "Bikes",
+      "question": "Did you have a bike when you were young?",
+      "time": 25
+    },
+    {
+      "id": 63,
+      "topic": "Bikes",
+      "question": "Do you have a bike now?",
+      "time": 25
+    },
+    {
+      "id": 64,
+      "topic": "Bikes",
+      "question": "Do you often ride a bike now?",
+      "time": 25
+    },
+    {
+      "id": 65,
+      "topic": "Bikes",
+      "question": "Are bikes popular in China?",
+      "time": 25
+    },
+    {
+      "id": 66,
+      "topic": "Bikes",
+      "question": "Did you ride a bike when you were little?",
+      "time": 25
+    },
+    {
+      "id": 67,
+      "topic": "Coins",
+      "question": "Do you often carry coins with you?",
+      "time": 25
+    },
+    {
+      "id": 68,
+      "topic": "Coins",
+      "question": "Have you ever collected coins?",
+      "time": 25
+    },
+    {
+      "id": 69,
+      "topic": "Coins",
+      "question": "Is it convenient to use coins?",
+      "time": 25
+    },
+    {
+      "id": 70,
+      "topic": "Coins",
+      "question": "Do you use coins in your daily life?",
+      "time": 25
+    },
+    {
+      "id": 71,
+      "topic": "Coins",
+      "question": "Did you use coins as a child?",
+      "time": 25
+    },
+    {
+      "id": 72,
+      "topic": "Roads and streets",
+      "question": "Are the roads and streets in the area where you live busy?",
+      "time": 25
+    },
+    {
+      "id": 73,
+      "topic": "Roads and streets",
+      "question": "How do people cross the road in the city where you live?",
+      "time": 25
+    },
+    {
+      "id": 74,
+      "topic": "Roads and streets",
+      "question": "What is the condition of the roads in your city like?",
+      "time": 25
+    },
+    {
+      "id": 75,
+      "topic": "Roads and streets",
+      "question": "Do you think the roads in your city need improvement?",
+      "time": 25
+    },
+    {
+      "id": 76,
+      "topic": "Roads and streets",
+      "question": "Are there any famous roads or streets in your country?",
+      "time": 25
+    },
+    {
+      "id": 77,
+      "topic": "Laughing",
+      "question": "Do you enjoy watching interesting and funny movies?",
+      "time": 25
+    },
+    {
+      "id": 78,
+      "topic": "Laughing",
+      "question": "Do you think you are a funny person?",
+      "time": 25
+    },
+    {
+      "id": 79,
+      "topic": "Laughing",
+      "question": "Are you a person who often makes others laugh?",
+      "time": 25
+    },
+    {
+      "id": 80,
+      "topic": "Laughing",
+      "question": "Do you always laugh at funny things?",
+      "time": 25
+    },
+    {
+      "id": 81,
+      "topic": "Laughing",
+      "question": "When was the last time you laughed?",
+      "time": 25
+    },
+    {
+      "id": 82,
+      "topic": "Fish ing",
+      "question": "Is fishing popular in your country?",
+      "time": 25
+    },
+    {
+      "id": 83,
+      "topic": "Fish ing",
+      "question": "Do you like eating fish?",
+      "time": 25
+    },
+    {
+      "id": 84,
+      "topic": "Fish ing",
+      "question": "Do you like fishing?",
+      "time": 25
+    },
+    {
+      "id": 85,
+      "topic": "Fish ing",
+      "question": "Did you ever go fishing when you were a child?",
+      "time": 25
+    },
+    {
+      "id": 86,
+      "topic": "Teachers",
+      "question": "Do you have a favourite teacher?",
+      "time": 25
+    },
+    {
+      "id": 87,
+      "topic": "Teachers",
+      "question": "In what way has your favourite teacher helped you?",
+      "time": 25
+    },
+    {
+      "id": 88,
+      "topic": "Teachers",
+      "question": "Do you have a teacher from your past that you still remember?",
+      "time": 25
+    },
+    {
+      "id": 89,
+      "topic": "Teachers",
+      "question": "Are you still in touch with your primary school teachers?",
+      "time": 25
+    },
+    {
+      "id": 90,
+      "topic": "Teachers",
+      "question": "Do you want to be a teacher in the future?",
+      "time": 25
+    },
+    {
+      "id": 91,
+      "topic": "Place of work/ study",
+      "question": "Do you prefer to study at home or in a library?",
+      "time": 25
+    },
+    {
+      "id": 92,
+      "topic": "Place of work/ study",
+      "question": "What is your favourite place to study?",
+      "time": 25
+    },
+    {
+      "id": 93,
+      "topic": "Place of work/ study",
+      "question": "What part of your school do you like the most?",
+      "time": 25
+    },
+    {
+      "id": 94,
+      "topic": "Place of work/ study",
+      "question": "Do you prefer to work at home or in the workplace?",
+      "time": 25
+    },
+    {
+      "id": 95,
+      "topic": "Place of work/ study",
+      "question": "Do you prefer to work alone or in a group?",
+      "time": 25
+    },
+    {
+      "id": 96,
+      "topic": "Perfume",
+      "question": "Do you like perfume?",
+      "time": 25
+    },
+    {
+      "id": 97,
+      "topic": "Perfume",
+      "question": "Do you use perfume?",
+      "time": 25
+    },
+    {
+      "id": 98,
+      "topic": "Perfume",
+      "question": "Where do you spray perfume?",
+      "time": 25
+    },
+    {
+      "id": 99,
+      "topic": "Perfume",
+      "question": "Do you send perfume to others as a gift?",
+      "time": 25
+    },
+    {
+      "id": 100,
+      "topic": "Perfume",
+      "question": "Do you spend a lot of money on buying perfume?",
+      "time": 25
+    },
+    {
+      "id": 101,
+      "topic": "Good view",
+      "question": "What is the view like around the place where you live?",
+      "time": 25
+    },
+    {
+      "id": 102,
+      "topic": "Good view",
+      "question": "Have you seen an unforgettable and beautiful view or scenery?",
+      "time": 25
+    },
+    {
+      "id": 103,
+      "topic": "Good view",
+      "question": "Would you take photos when you see a good view?",
+      "time": 25
+    },
+    {
+      "id": 104,
+      "topic": "Good view",
+      "question": "What is your favourite place? Why?",
+      "time": 25
+    },
+    {
+      "id": 105,
+      "topic": "Teamwork",
+      "question": "Do you like teamwork?",
+      "time": 25
+    },
+    {
+      "id": 106,
+      "topic": "Teamwork",
+      "question": "Have you teamed up with someone else before?",
+      "time": 25
+    },
+    {
+      "id": 107,
+      "topic": "Teamwork",
+      "question": "What do you learn from working in a team?",
+      "time": 25
+    },
+    {
+      "id": 108,
+      "topic": "Teamwork",
+      "question": "What do you dislike about teamwork?",
+      "time": 25
+    },
+    {
+      "id": 109,
+      "topic": "Meet new friends/people",
+      "question": "Do you like making friends?",
+      "time": 25
+    },
+    {
+      "id": 110,
+      "topic": "Meet new friends/people",
+      "question": "Did you make a lot of friends when you were a child?",
+      "time": 25
+    },
+    {
+      "id": 111,
+      "topic": "Meet new friends/people",
+      "question": "Have you made any new friends recently?",
+      "time": 25
+    },
+    {
+      "id": 112,
+      "topic": "Meet new friends/people",
+      "question": "What do you often talk about with your new friends?",
+      "time": 25
+    },
+    {
+      "id": 113,
+      "topic": "Meet new friends/people",
+      "question": "Do you like meeting new people?",
+      "time": 25
+    },
+    {
+      "id": 114,
+      "topic": "Meet new friends/people",
+      "question": "Where can you meet new people?",
+      "time": 25
+    },
+    {
+      "id": 115,
+      "topic": "Meet new friends/people",
+      "question": "Do you enjoy talking to new people?",
+      "time": 25
+    },
+    {
+      "id": 116,
+      "topic": "Meet new friends/people",
+      "question": "Do you meet new people more often now than in the past?",
+      "time": 25
+    },
+    {
+      "id": 117,
+      "topic": "Swimming",
+      "question": "Do you like swimming?",
+      "time": 25
+    },
+    {
+      "id": 118,
+      "topic": "Swimming",
+      "question": "Is it difficult to learn how to swim?",
+      "time": 25
+    },
+    {
+      "id": 119,
+      "topic": "Swimming",
+      "question": "Where do people in your country like to go swimming?",
+      "time": 25
+    },
+    {
+      "id": 120,
+      "topic": "Swimming",
+      "question": "What 's the difference between swimming in the pool and swimming in the sea?",
+      "time": 25
+    },
+    {
+      "id": 121,
+      "topic": "Mobile phone",
+      "question": "What was your first mobile phone?",
+      "time": 25
+    },
+    {
+      "id": 122,
+      "topic": "Mobile phone",
+      "question": "Do you often use your mobile phone for texting or calls?",
+      "time": 25
+    },
+    {
+      "id": 123,
+      "topic": "Mobile phone",
+      "question": "Will you buy a new one in the future?",
+      "time": 25
+    },
+    {
+      "id": 124,
+      "topic": "Mobile phone",
+      "question": "How has your mobile phone changed your life?",
+      "time": 25
+    },
+    {
+      "id": 125,
+      "topic": "Evening time",
+      "question": "Do you like the morning or evening?",
+      "time": 25
+    },
+    {
+      "id": 126,
+      "topic": "Evening time",
+      "question": "What did you do in the evening when you were little? Why?",
+      "time": 25
+    },
+    {
+      "id": 127,
+      "topic": "Evening time",
+      "question": "Are there any differences between what you do in the evening now and what you did in the past?",
+      "time": 25
+    },
+    {
+      "id": 128,
+      "topic": "Evening time",
+      "question": "Do you spend your evenings doing the same things on both weekends and weekdays? Why?  ",
+      "time": 25
+    },
+    {
+      "id": 129,
+      "topic": "Feeling bored",
+      "question": "Do you often feel bored?",
+      "time": 25
+    },
+    {
+      "id": 130,
+      "topic": "Feeling bored",
+      "question": "When would you feel bored?",
+      "time": 25
+    },
+    {
+      "id": 131,
+      "topic": "Feeling bored",
+      "question": "What do you do when you feel bored?",
+      "time": 25
+    },
+    {
+      "id": 132,
+      "topic": "Feeling bored",
+      "question": "Do you think childhood is boring or adulthood is boring?",
+      "time": 25
+    },
+    {
+      "id": 133,
+      "topic": "Computers",
+      "question": "In what conditions would you use a computer?",
+      "time": 25
+    },
+    {
+      "id": 134,
+      "topic": "Computers",
+      "question": "When was the first time you used a computer?",
+      "time": 25
+    },
+    {
+      "id": 135,
+      "topic": "Computers",
+      "question": "What would your life be like without computers?",
+      "time": 25
+    },
+    {
+      "id": 136,
+      "topic": "Computers",
+      "question": "In what conditions would it be difficult for you to use a computer?",
+      "time": 25
+    },
+    {
+      "id": 137,
+      "topic": "Talents",
+      "question": "Do you have a talent or something you are good at?",
+      "time": 25
+    },
+    {
+      "id": 138,
+      "topic": "Talents",
+      "question": "Was it mastered recently or when you were young?",
+      "time": 25
+    },
+    {
+      "id": 139,
+      "topic": "Talents",
+      "question": "Do you think your talent can be useful for your future work? Why?",
+      "time": 25
+    },
+    {
+      "id": 140,
+      "topic": "Talents",
+      "question": "Do you think anyone in your family has the same talent?",
+      "time": 25
+    },
+    {
+      "id": 141,
+      "topic": "Mirrors",
+      "question": "Do you like looking at yourself in the mirror? How often?",
+      "time": 25
+    },
+    {
+      "id": 142,
+      "topic": "Mirrors",
+      "question": "Have you ever bought mirrors?",
+      "time": 25
+    },
+    {
+      "id": 143,
+      "topic": "Mirrors",
+      "question": "Would you use mirrors to decorate your room?",
+      "time": 25
+    },
+    {
+      "id": 144,
+      "topic": "Old buildings",
+      "question": "Are there any old buildings you want to see in the future? Why?",
+      "time": 25
+    },
+    {
+      "id": 145,
+      "topic": "Lost and found",
+      "question": "What will you do if you find something lost by others?",
+      "time": 25
+    },
+    {
+      "id": 146,
+      "topic": "Lost and found",
+      "question": "Do you report to the police when finding something lost by others? Why?",
+      "time": 25
+    },
+    {
+      "id": 147,
+      "topic": "Lost and found",
+      "question": "Have you ever lost things?",
+      "time": 25
+    },
+    {
+      "id": 148,
+      "topic": "Lost and found",
+      "question": "Will you post on social media if you lose your item?",
+      "time": 25
+    },
+    {
+      "id": 149,
+      "topic": "Emails",
+      "question": "Do you often send emails?",
+      "time": 25
+    },
+    {
+      "id": 150,
+      "topic": "Emails",
+      "question": "When would you send emails to others?",
+      "time": 25
+    },
+    {
+      "id": 151,
+      "topic": "Emails",
+      "question": "Is sending emails popular in China?",
+      "time": 25
+    },
+    {
+      "id": 152,
+      "topic": "Emails",
+      "question": "Do you think sending emails will be more or less popular in the future?",
+      "time": 25
+    },
+    {
+      "id": 153,
+      "topic": "Dreams",
+      "question": "Can you remember the dreams you had?",
+      "time": 25
+    },
+    {
+      "id": 154,
+      "topic": "Dreams",
+      "question": "Do you share your dreams with others? (or are you interested in others'dreams?)",
+      "time": 25
+    },
+    {
+      "id": 155,
+      "topic": "Dreams",
+      "question": "Do you think dreams have special meanings?",
+      "time": 25
+    },
+    {
+      "id": 156,
+      "topic": "Dreams",
+      "question": "Do you want to make your dreams come true?",
+      "time": 25
+    },
+    {
+      "id": 157,
+      "topic": "Advertisement",
+      "question": "Is there an advertisement that made an impression on you when you were a child?",
+      "time": 25
+    },
+    {
+      "id": 158,
+      "topic": "Advertisement",
+      "question": "Do you see a lot of advertising on trains or other transport?",
+      "time": 25
+    },
+    {
+      "id": 159,
+      "topic": "Advertisement",
+      "question": "Do you like advertisements?",
+      "time": 25
+    },
+    {
+      "id": 160,
+      "topic": "Advertisement",
+      "question": "What kind of advertising do you like?",
+      "time": 25
+    },
+    {
+      "id": 161,
+      "topic": "Taking photos",
+      "question": "Do you like taking photos?",
+      "time": 25
+    },
+    {
+      "id": 162,
+      "topic": "Taking photos",
+      "question": "Do you like taking selfies?",
+      "time": 25
+    },
+    {
+      "id": 163,
+      "topic": "Taking photos",
+      "question": "What is your favourite family photo?",
+      "time": 25
+    },
+    {
+      "id": 164,
+      "topic": "Taking photos",
+      "question": "Do you want to improve your photography skills?",
+      "time": 25
+    },
+    {
+      "id": 165,
+      "topic": "Cars",
+      "question": "Did you enjoy traveling by car when you were a kid?",
+      "time": 25
+    },
+    {
+      "id": 166,
+      "topic": "Cars",
+      "question": "What types of cars do you like?",
+      "time": 25
+    },
+    {
+      "id": 167,
+      "topic": "Cars",
+      "question": "Do you prefer to be a driver or a passenger?",
+      "time": 25
+    },
+    {
+      "id": 168,
+      "topic": "Cars",
+      "question": "What do you usually do when there is a traffic jam?",
+      "time": 25
+    },
+    {
+      "id": 169,
+      "topic": "Cars",
+      "question": "Do you think car colours are important?",
+      "time": 25
+    },
+    {
+      "id": 170,
+      "topic": "Street Market",
+      "question": "Are there many street markets in China?",
+      "time": 25
+    },
+    {
+      "id": 171,
+      "topic": "Street Market",
+      "question": "When was the last time you went to a street market?",
+      "time": 25
+    },
+    {
+      "id": 172,
+      "topic": "Street Market",
+      "question": "Do you prefer to go shopping in the shopping mall or on the street market?",
+      "time": 25
+    },
+    {
+      "id": 173,
+      "topic": "Websites",
+      "question": "What kinds of websites do you often visit?",
+      "time": 25
+    },
+    {
+      "id": 174,
+      "topic": "Websites",
+      "question": "What is your favourite website?",
+      "time": 25
+    },
+    {
+      "id": 175,
+      "topic": "Websites",
+      "question": "Are there any changes to the websites you often visit?",
+      "time": 25
+    },
+    {
+      "id": 176,
+      "topic": "Websites",
+      "question": "What kinds of websites are popular in your country?",
+      "time": 25
+    },
+    {
+      "id": 177,
+      "topic": "Watch",
+      "question": "Do you wear a watch?",
+      "time": 25
+    },
+    {
+      "id": 178,
+      "topic": "Watch",
+      "question": "Have you ever got a watch as a gift?",
+      "time": 25
+    },
+    {
+      "id": 179,
+      "topic": "Watch",
+      "question": "Why do some people wear expensive watches?",
+      "time": 25
+    },
+    {
+      "id": 180,
+      "topic": "Watch",
+      "question": "Do you think it is important to wear a watch? Why?",
+      "time": 25
+    },
+    {
+      "id": 181,
+      "topic": "Time management",
+      "question": "How do you plan your time in a day?",
+      "time": 25
+    },
+    {
+      "id": 182,
+      "topic": "Time management",
+      "question": "Is it easy to manage time for you?",
+      "time": 25
+    },
+    {
+      "id": 183,
+      "topic": "Time management",
+      "question": "When do you find it hard to allocate time?",
+      "time": 25
+    },
+    {
+      "id": 184,
+      "topic": "Time management",
+      "question": "Do you like being busy?",
+      "time": 25
+    },
+    {
+      "id": 185,
+      "topic": "Books and reading habits",
+      "question": "Do you often read books? When?",
+      "time": 25
+    },
+    {
+      "id": 186,
+      "topic": "Books and reading habits",
+      "question": "Are your reading habits now different than before?",
+      "time": 25
+    },
+    {
+      "id": 187,
+      "topic": "Books and reading habits",
+      "question": "Have you ever read a novel that has been adapted into a film?",
+      "time": 25
+    },
+    {
+      "id": 188,
+      "topic": "Books and reading habits",
+      "question": "Which do you prefer, reading books or watching movies?",
+      "time": 25
+    },
+    {
+      "id": 189,
+      "topic": "Books and reading habits",
+      "question": "Do you read more or less now than when you were younger?",
+      "time": 25
+    },
+    {
+      "id": 190,
+      "topic": "Collecting things",
+      "question": "Do you collect things?",
+      "time": 25
+    },
+    {
+      "id": 191,
+      "topic": "Collecting things",
+      "question": "Are there any things you have kept from your childhood?",
+      "time": 25
+    },
+    {
+      "id": 192,
+      "topic": "Collecting things",
+      "question": "Would you keep old things for a long time? Why?",
+      "time": 25
+    },
+    {
+      "id": 193,
+      "topic": "Collecting things",
+      "question": "Where do you usually keep things you need?",
+      "time": 25
+    },
+    {
+      "id": 194,
+      "topic": "Sitting down",
+      "question": "Where is your favorite place to sit?",
+      "time": 25
+    },
+    {
+      "id": 195,
+      "topic": "Sitting down",
+      "question": "Do you always sit down for a long time?",
+      "time": 25
+    },
+    {
+      "id": 196,
+      "topic": "Sitting down",
+      "question": "Do you feel sleepy when you are sitting down?",
+      "time": 25
+    },
+    {
+      "id": 197,
+      "topic": "Sitting down",
+      "question": "When you were a kid, did you usually sit on the floor?",
+      "time": 25
+    },
+    {
+      "id": 198,
+      "topic": "Sitting down",
+      "question": "Do you find it easy to fall asleep when sitting on a sofa?",
+      "time": 25
+    },
+    {
+      "id": 199,
+      "topic": "Friends",
+      "question": "Do you have a friend you have known for a long time?",
+      "time": 25
+    },
+    {
+      "id": 200,
+      "topic": "Friends",
+      "question": "What do you usually do with your friends?",
+      "time": 25
+    },
+    {
+      "id": 201,
+      "topic": "Friends",
+      "question": "Where do you often meet each other?",
+      "time": 25
+    },
+    {
+      "id": 202,
+      "topic": "Friends",
+      "question": "Do you often go out with your friends?",
+      "time": 25
+    },
+    {
+      "id": 203,
+      "topic": "Friends",
+      "question": "How important are friends to you?",
+      "time": 25
+    },
+    {
+      "id": 204,
+      "topic": "Friends",
+      "question": "Do you prefer to spend time with one friend or with a group of friends?",
+      "time": 25
+    },
+    {
+      "id": 205,
+      "topic": "Friends",
+      "question": "Would you invite friends to your home?",
+      "time": 25
+    },
+    {
+      "id": 206,
+      "topic": "Art/drawing",
+      "question": "Do you like drawing?",
+      "time": 25
+    },
+    {
+      "id": 207,
+      "topic": "Art/drawing",
+      "question": "Do you like to go to the gallery?",
+      "time": 25
+    },
+    {
+      "id": 208,
+      "topic": "Art/drawing",
+      "question": "Do you want to learn more about art?",
+      "time": 25
+    },
+    {
+      "id": 209,
+      "topic": "Art/drawing",
+      "question": "Did you learn drawing when you were a kid?",
+      "time": 25
+    },
+    {
+      "id": 210,
+      "topic": "Sports programs",
+      "question": "Do you like watching sports programs on TV?",
+      "time": 25
+    },
+    {
+      "id": 211,
+      "topic": "Sports programs",
+      "question": "Do you like to watch live sports games?",
+      "time": 25
+    },
+    {
+      "id": 212,
+      "topic": "Sports programs",
+      "question": "Who do you like to watch sports games with?",
+      "time": 25
+    },
+    {
+      "id": 213,
+      "topic": "Sports programs",
+      "question": "What kinds of games do you expect to watch in the future?",
+      "time": 25
+    },
+    {
+      "id": 214,
+      "topic": "Hobby",
+      "question": "Do you have any hobbies?",
+      "time": 25
+    },
+    {
+      "id": 215,
+      "topic": "Hobby",
+      "question": "Did you have any hobbies when you were a child?",
+      "time": 25
+    },
+    {
+      "id": 216,
+      "topic": "Hobby",
+      "question": "Do you have a hobby that you've had since childhood?",
+      "time": 25
+    },
+    {
+      "id": 217,
+      "topic": "Hobby",
+      "question": "Do you have the same hobbies as your family members?",
+      "time": 25
+    },
+    {
+      "id": 218,
+      "topic": "Sharing",
+      "question": "Did your parents teach you to share when you were a child?",
+      "time": 25
+    },
+    {
+      "id": 219,
+      "topic": "Sharing",
+      "question": "What kind of things do you like to share with others?",
+      "time": 25
+    },
+    {
+      "id": 220,
+      "topic": "Sharing",
+      "question": "What kind of things are not suitable for sharing?",
+      "time": 25
+    },
+    {
+      "id": 221,
+      "topic": "Sharing",
+      "question": "Do you have anything to share with others recently?",
+      "time": 25
+    },
+    {
+      "id": 222,
+      "topic": "Language",
+      "question": "What languages can you speak?",
+      "time": 25
+    },
+    {
+      "id": 223,
+      "topic": "Language",
+      "question": "What languages would you like to learn in the future?",
+      "time": 25
+    },
+    {
+      "id": 224,
+      "topic": "Language",
+      "question": "How do you learn a foreign language?",
+      "time": 25
+    },
+    {
+      "id": 225,
+      "topic": "Language",
+      "question": "How are languages taught and learned in your school?",
+      "time": 25
+    },
+    {
+      "id": 226,
+      "topic": "Language",
+      "question": "What kinds of difficulties would you have if you want to learn a new language?",
+      "time": 25
+    },
+    {
+      "id": 227,
+      "topic": "Pen & Pencil",
+      "question": "Do you usually use a pen or a pencil?",
+      "time": 25
+    },
+    {
+      "id": 228,
+      "topic": "Pen & Pencil",
+      "question": "Which do you use more often? Pen or pencil?",
+      "time": 25
+    },
+    {
+      "id": 229,
+      "topic": "Pen & Pencil",
+      "question": "When was the last time you bought a pen or pencil?",
+      "time": 25
+    },
+    {
+      "id": 230,
+      "topic": "Pen & Pencil",
+      "topic": "Doing sports",
+      "question": "Should schools encourage young students to take more physical exercise?",
+      "time": 25
+    },
+    {
+      "id": 231,
+      "topic": "Exciting activities （*11月低频题）",
+      "question": "Have you ever tried any exciting activities?",
+      "time": 25
+    },
+    {
+      "id": 232,
+      "topic": "Exciting activities （*11月低频题）",
+      "question": "What do you think were exciting activities when you were a child?",
+      "time": 25
+    },
+    {
+      "id": 233,
+      "topic": "Exciting activities （*11月低频题）",
+      "question": "Has anything exciting happened to you recently?",
+      "time": 25
+    },
+    {
+      "id": 234,
+      "topic": "Exciting activities （*11月低频题）",
+      "question": "Would you like to try scuba diving and rock climbing?",
+      "time": 25
+    },
+    {
+      "id": 235,
+      "topic": "Schools and workplaces",
+      "question": "Where is your school?",
+      "time": 25
+    },
+    {
+      "id": 236,
+      "topic": "Schools and workplaces",
+      "question": "Do you like your school?",
+      "time": 25
+    },
+    {
+      "id": 237,
+      "topic": "Schools and workplaces",
+      "question": "Do you think your school is a good place to study?",
+      "time": 25
+    },
+    {
+      "id": 238,
+      "topic": "Schools and workplaces",
+      "question": "What is the environment like at your school?",
+      "time": 25
+    },
+    {
+      "id": 239,
+      "topic": "Schools and workplaces",
+      "question": "What do you think could be improved in your school?",
+      "time": 25
+    },
+    {
+      "id": 240,
+      "topic": "Schools and workplaces",
+      "question": "How important is interest in study?",
+      "time": 25
+    },
+    {
+      "id": 241,
+      "topic": "Schools and workplaces",
+      "question": "Which subject do you find challenging?",
+      "time": 25
+    },
+    {
+      "id": 242,
+      "topic": "Schools and workplaces",
+      "question": "Do you like your job?",
+      "time": 25
+    },
+    {
+      "id": 243,
+      "topic": "Schools and workplaces",
+      "question": "Do you currently have a good work environment?",
+      "time": 25
+    },
+    {
+      "id": 244,
+      "topic": "Schools and workplaces",
+      "question": "What do you think could be improved at your workplace?",
+      "time": 25
+    },
+    {
+      "id": 245,
+      "topic": "Schools and workplaces",
+      "question": "Have you ever thought about changing jobs?",
+      "time": 25
+    },
+    {
+      "id": 246,
+      "topic": "Schools and workplaces",
+      "question": "What do you think would be challenging when you start working in the future?",
+      "time": 25
+    },
+    {
+      "id": 247,
+      "topic": "Schools and workplaces",
+      "question": "Is there a place in your company that makes you feel relaxed?",
+      "time": 25
+    },
+    {
+      "id": 248,
+      "topic": "Schools and workplaces",
+      "question": "What are the advantages of a company having a relaxation room?",
+      "time": 25
+    },
+    {
+      "id": 249,
+      "topic": "Schools and workplaces",
+      "question": "How do you go to work?",
+      "time": 25
+    },
+    {
+      "id": 250,
+      "topic": "Schools and workplaces",
+      "question": "How do you go to school?",
+      "time": 25
+    },
+    {
+      "id": 251,
+      "topic": "Holidays （*11月低频题）",
+      "question": "Where did you go for your last holiday?",
+      "time": 25
+    },
+    {
+      "id": 252,
+      "topic": "Holidays （*11月低频题）",
+      "question": "Do you like holidays? Why?",
+      "time": 25
+    },
+    {
+      "id": 253,
+      "topic": "Holidays （*11月低频题）",
+      "question": "Which public holiday do you like best?",
+      "time": 25
+    },
+    {
+      "id": 254,
+      "topic": "Holidays （*11月低频题）",
+      "question": "What do you do on holidays?",
+      "time": 25
+    },
+    {
+      "id": 255,
+      "topic": "Holidays （*11月低频题）",
+      "question": "Do you like to spend your day at home?",
+      "time": 25
+    },
+    {
+      "id": 256,
+      "topic": "Holidays （*11月低频题）",
+      "question": "Do you prefer a leisurely or a busy holiday?",
+      "time": 25
+    },
+    {
+      "id": 257,
+      "topic": "Holidays （*11月低频题）",
+      "question": "Would you prefer an exciting holiday or a peaceful holiday?",
+      "time": 25
+    },
+    {
+      "id": 258,
+      "topic": "Childhood memory",
+      "question": "What did you enjoy doing as a child?",
+      "time": 25
+    },
+    {
+      "id": 259,
+      "topic": "Childhood memory",
+      "question": "Did you enjoy your childhood?",
+      "time": 25
+    },
+    {
+      "id": 260,
+      "topic": "Childhood memory",
+      "question": "What are your best childhood memories?",
+      "time": 25
+    },
+    {
+      "id": 261,
+      "topic": "Childhood memory",
+      "question": "Do you think it is better for children to grow up in the city or in the countryside?",
+      "time": 25
+    },
+    {
+      "id": 262,
+      "topic": "Childhood memory",
+      "question": "Where did you go to play as a child?",
+      "time": 25
+    },
+    {
+      "id": 263,
+      "topic": "Childhood memory",
+      "question": "Who did you like to play with as a child?",
+      "time": 25
+    },
+    {
+      "id": 264,
+      "topic": "Morning routines",
+      "question": "What do you do in the mornings?",
+      "time": 25
+    },
+    {
+      "id": 265,
+      "topic": "Morning routines",
+      "question": "Is breakfast important?",
+      "time": 25
+    },
+    {
+      "id": 266,
+      "topic": "Morning routines",
+      "question": "What is your morning routine?",
+      "time": 25
+    },
+    {
+      "id": 267,
+      "topic": "Morning routines",
+      "question": "Do you like to get up early in the morning?",
+      "time": 25
+    },
+    {
+      "id": 268,
+      "topic": "Staying at home",
+      "question": "Are you a person who likes to stay at home?",
+      "time": 25
+    },
+    {
+      "id": 269,
+      "topic": "Staying at home",
+      "question": "What do you do when you stay at home?",
+      "time": 25
+    },
+    {
+      "id": 270,
+      "topic": "Staying at home",
+      "question": "What is your favourite place at home?",
+      "time": 25
+    },
+    {
+      "id": 271,
+      "topic": "Staying at home",
+      "question": "What did you often do at home as a child?",
+      "time": 25
+    },
+    {
+      "id": 272,
+      "topic": "Staying at home",
+      "question": "Would you like to stay at home a lot in the future?",
+      "time": 25
+    },
+    {
+      "id": 273,
+      "topic": "Staying at home",
+      "question": "What do you like to do in your free time when you're at home?",
+      "time": 25
+    },
+    {
+      "id": 274,
+      "topic": "Challenges",
+      "question": "What subject do you think is the most challenging at school?",
+      "time": 25
+    },
+    {
+      "id": 275,
+      "topic": "Challenges",
+      "question": "Do you like to challenge yourself?",
+      "time": 25
+    },
+    {
+      "id": 276,
+      "topic": "Challenges",
+      "question": "Do you like to live a life that has a lot of challenges?",
+      "time": 25
+    },
+    {
+      "id": 277,
+      "topic": "Challenges",
+      "question": "How do you usually deal with challenges in daily life?",
+      "time": 25
+    },
+    {
+      "id": 278,
+      "topic": "Plants",
+      "question": "Do you keep plants at home?",
+      "time": 25
+    },
+    {
+      "id": 279,
+      "topic": "Plants",
+      "question": "Do you know anything about growing a plant?",
+      "time": 25
+    },
+    {
+      "id": 280,
+      "topic": "Plants",
+      "question": "Do Chinese people send plants as gifts?",
+      "time": 25
+    },
+    {
+      "id": 281,
+      "topic": "Social media",
+      "question": "When did you start using social media?",
+      "time": 25
+    },
+    {
+      "id": 282,
+      "topic": "Social media",
+      "question": "Do you think you spend too much time on social media?",
+      "time": 25
+    },
+    {
+      "id": 283,
+      "topic": "Social media",
+      "question": "Do your friends use social media?",
+      "time": 25
+    },
+    {
+      "id": 284,
+      "topic": "Social media",
+      "question": "What do people often do on social media?",
+      "time": 25
+    },
+    {
+      "id": 285,
+      "topic": "Films /cinemas",
+      "question": "What films do you like?",
+      "time": 25
+    },
+    {
+      "id": 286,
+      "topic": "Films /cinemas",
+      "question": "Did you often watch films when you were a child?",
+      "time": 25
+    },
+    {
+      "id": 287,
+      "topic": "Films /cinemas",
+      "question": "Did you ever go to the cinema alone as a child?",
+      "time": 25
+    },
+    {
+      "id": 288,
+      "topic": "Films /cinemas",
+      "question": "Do you often go to the cinema with your friends?",
+      "time": 25
+    },
+    {
+      "id": 289,
+      "topic": "Films /cinemas",
+      "question": "Do you think going to the cinema is a good way to spend time with friends?",
+      "time": 25
+    },
+    {
+      "id": 290,
+      "topic": "Films /cinemas",
+      "question": "How often do you watch films?",
+      "time": 25
+    },
+    {
+      "id": 291,
+      "topic": "Films /cinemas",
+      "question": "Do you prefer to watch films at home or in the cinema?",
+      "time": 25
+    },
+    {
+      "id": 292,
+      "topic": "Music/Musical instruments",
+      "question": "Have you ever learned to play a musical instrument?",
+      "time": 25
+    },
+    {
+      "id": 293,
+      "topic": "Music/Musical instruments",
+      "question": "What musical instruments do you enjoy listening to the most?",
+      "time": 25
+    },
+    {
+      "id": 294,
+      "topic": "Music/Musical instruments",
+      "question": "Do you think children should learn to play an instrument at school?",
+      "time": 25
+    },
+    {
+      "id": 295,
+      "topic": "Music/Musical instruments",
+      "question": "Do you think music education is important to children?",
+      "time": 25
+    },
+    {
+      "id": 296,
+      "topic": "Music/Musical instruments",
+      "question": "Do a lot of people like music?",
+      "time": 25
+    },
+    {
+      "id": 297,
+      "topic": "Music/Musical instruments",
+      "question": "Do schools in your country have music lessons?",
+      "time": 25
+    },
+    {
+      "id": 298,
+      "topic": "The city you live in",
+      "question": "What city do you live in?",
+      "time": 25
+    },
+    {
+      "id": 299,
+      "topic": "The city you live in",
+      "question": "Do you like this city? Why?",
+      "time": 25
+    },
+    {
+      "id": 300,
+      "topic": "The city you live in",
+      "question": "How long have you lived in this city?",
+      "time": 25
+    },
+    {
+      "id": 301,
+      "topic": "The city you live in",
+      "question": "Are there big changes in this city?",
+      "time": 25
+    },
+    {
+      "id": 302,
+      "topic": "The city you live in",
+      "question": "Is this city your permanent residence?",
+      "time": 25
+    },
+    {
+      "id": 303,
+      "topic": "The city you live in",
+      "question": "Are there people of different ages living in this city?",
+      "time": 25
+    },
+    {
+      "id": 304,
+      "topic": "The city you live in",
+      "question": "Are the people friendly in the city?",
+      "time": 25
+    },
+    {
+      "id": 305,
+      "topic": "The city you live in",
+      "question": "Is the city friendly to children and old people?",
+      "time": 25
+    },
+    {
+      "id": 306,
+      "topic": "The city you live in",
+      "question": "Do you often see your neighbors?",
+      "time": 25
+    },
+    {
+      "id": 307,
+      "topic": "The city you live in",
+      "question": "What's the weather like where you live?",
+      "time": 25
+    },
+    {
+      "id": 308,
+      "topic": "The city you live in",
+      "question": "Would you recommend your city to others?",
+      "time": 25
+    },
+    {
+      "id": 309,
+      "topic": "Weekends",
+      "question": "Do you do the same things every weekend?",
+      "time": 25
+    },
+    {
+      "id": 310,
+      "topic": "Weekends",
+      "question": "Has your weekend routine changed?",
+      "time": 25
+    },
+    {
+      "id": 311,
+      "topic": "Weekends",
+      "question": "Do you like weekends?",
+      "time": 25
+    },
+    {
+      "id": 312,
+      "topic": "Weekends",
+      "question": "What do you usually do on weekends? Do you study or work?",
+      "time": 25
+    },
+    {
+      "id": 313,
+      "topic": "Weekends",
+      "question": "What did you do last weekend?",
+      "time": 25
+    },
+    {
+      "id": 314,
+      "topic": "Weekends",
+      "question": "Do you make plans for your weekends?",
+      "time": 25
+    },
+    {
+      "id": 315,
+      "topic": "Evening time",
+      "question": "What do you usually do in the evening？",
+      "time": 25
+    }
+  ],
+  "part2": [
+    {
+      "id": 1,
+      "topic": "学到新东西的网络视频",
+      "question": "Describe an online video in which you learned something new",
+      "cue_card": [
+        "When and where you watched it",
+        "What it was",
+        "Why you watched it",
+        "And explain what you have learned from it",
+        "And explain what you have learned from it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 2,
+      "topic": "令你自信的事（ *11月低频题）",
+      "question": "Describe something you did in your study/work that has made you feel confident",
+      "cue_card": [
+        "When and where it happened",
+        "What you did",
+        "Why it made you feel confident",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 3,
+      "topic": "固执已见的人（ *11月低频题）",
+      "question": "Describe a person who has strong opinions",
+      "cue_card": [
+        "Who this person is",
+        "How you knew him/her",
+        "What kinds of strong opinions this person has",
+        "And explain why you think he/she is a person who has strong opinions",
+        "And explain why you think he/she is a person who has strong opinions"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 4,
+      "topic": "公共场所接陌生人电话",
+      "question": "Describe a time when you answered a phone call from someone",
+      "cue_card": [
+        "When and where it happened",
+        "Who called you",
+        "What he/she said",
+        "How you responded",
+        "And explain how you felt about the experience",
+        "And explain how you felt about the experience"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 5,
+      "topic": "重新联系的老友",
+      "question": "Describe an old friend you had lost touch with and got in contact with again",
+      "cue_card": [
+        "Who he/she is",
+        "How you knew each other",
+        "Why you lost contact",
+        "How you got in contact again",
+        "And explain how you felt after getting in contact again",
+        "And explain how you felt after getting in contact again"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 6,
+      "topic": "文化之地",
+      "question": "Describe a cultural place that you would like to learn the culture there (e.g. a library, museum, theatre)",
+      "cue_card": [
+        "Where it is",
+        "How you knew this place",
+        "What it is like",
+        "And explain how the place is related to culture",
+        "And explain how the place is related to culture"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 7,
+      "topic": "给建议的人",
+      "question": "Describe a person from whom others like to ask for advice",
+      "cue_card": [
+        "Who this person is",
+        "Why people like to ask for his/her advice",
+        "What kind of advice he/she often gives",
+        "And explain how you fe el about the person",
+        "And explain how you fe el about the person"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 8,
+      "topic": "拥挤地方",
+      "question": "Describe a crowded place you went to",
+      "cue_card": [
+        "Where it was",
+        "When you went there",
+        "Who you went there with",
+        "What you did there",
+        "And how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 9,
+      "topic": "理想房屋",
+      "question": "Describe an ideal and perfect place where you would like to stay(e.g. a house, an apartment)",
+      "cue_card": [
+        "Where it would be",
+        "What it would look like",
+        "What special features it would have",
+        "Whether it would be big or small",
+        "And explain why it would be an ideal place for you",
+        "And explain why it would be an ideal place for you"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 10,
+      "topic": "近期观影",
+      "question": "Describe a movie you watched and enjoyed recently",
+      "cue_card": [
+        "When and where you watched it",
+        "Who you watched it with",
+        "What it was about",
+        "And explain why you watched this movie",
+        "And explain why you watched this movie"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 11,
+      "topic": "帮助亲人",
+      "question": "Describe an occasion when you helped a family member/relative",
+      "cue_card": [
+        "When it happened",
+        "Who you helped",
+        "How you helped",
+        "And explain how you felt about the experience",
+        "And explain how you felt about the experience"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 12,
+      "topic": "医疗人士",
+      "question": "Describe a person you know who has chosen a career in the medical field(e.g. a doctor, a nurse )",
+      "cue_card": [
+        "Who he/she is",
+        "What he/she does",
+        "Why he/she chose this career",
+        "And explain how you feel about him/her",
+        "And explain how you feel about him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 13,
+      "topic": "弄丢贵重物品",
+      "question": "Describe a time when you lost an important and valuable item",
+      "cue_card": [
+        "When and where it happened",
+        "What it was",
+        "How important and valuable it was",
+        "How you lost it",
+        "And explain how you felt about the experience",
+        "And explain how you felt about the experience"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 14,
+      "topic": "获奖",
+      "question": "Describe a prize you have received recently (e.g. money, something valuable,",
+      "cue_card": [
+        "What it was",
+        "When you received it",
+        "What you did to receive it",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 15,
+      "topic": "遇到困难挑战 （*11月低频题）",
+      "question": "Describe a challenge you faced that you thought was rather difficult",
+      "cue_card": [
+        "What it was",
+        "When and where you faced it",
+        "Why you thought it was a difficult challenge",
+        "And explain how you felt at the time",
+        "And explain how you felt at the time"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 16,
+      "topic": "读书迷",
+      "question": "Describe a person who likes to read a lot",
+      "cue_card": [
+        "Who this person is",
+        "How you knew him/her",
+        "What he/she likes to read",
+        "And explain why you think he/she likes to read a lot",
+        "And explain why you think he/she likes to read a lot"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 17,
+      "topic": "喜欢做手工的人",
+      "question": "Describe a person who likes to make things by hand (e.g. toys, furniture)",
+      "cue_card": [
+        "Who this person is",
+        "What he/she makes",
+        "Why he/she likes to make things by hand",
+        "And explain how you feel about the person",
+        "And explain how you feel about the person"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 18,
+      "topic": "喜欢和亲友去的地方",
+      "question": "Describe a place in your hometown/city that is different from other places and that you enjoy visiting with your parents/friends",
+      "cue_card": [
+        "Where it is",
+        "What it is like",
+        "What you often do there",
+        "Who you often go there with",
+        "And explain why you think it is different",
+        "And explain why you think it is different"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 19,
+      "topic": "公园 /花园",
+      "question": "Describe a public park or garden",
+      "cue_card": [
+        "Where it is",
+        "What it is like",
+        "How often you go there",
+        "What you often do there",
+        "And explain how you feel about it",
+        "And explain how you feel about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 20,
+      "topic": "传统节日的食物",
+      "question": "Describe your favourite food at a traditiona l festival or a special event in your country",
+      "cue_card": [
+        "What it is",
+        "At which festival/event you eat it",
+        "How it is made",
+        "And explain why you like it",
+        "And explain why you like it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 21,
+      "topic": "别人房间（ *11月低频题）",
+      "question": "Describe someone else's room you enjoy spending time in",
+      "cue_card": [
+        "When you visited there",
+        "Whose room it is",
+        "What it is like",
+        "What you can do in it",
+        "And explain why you enjoy spending time there",
+        "And explain why you enjoy spending time there"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 22,
+      "topic": "看到野生动物的地方",
+      "question": "Describe a place you know where people can see a lot of wildlife (e.g. animals, birds, insects)",
+      "cue_card": [
+        "Where it is",
+        "What kinds of wildlife people can see there",
+        "Whether people like to go there",
+        "And explain how you feel about it",
+        "And explain how you feel about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 23,
+      "topic": "购物服务",
+      "question": "Describe a time when you received good service in a shop/store",
+      "cue_card": [
+        "Where the shop is",
+        "When you went to the shop",
+        "What service you received from the staff",
+        "And explain how you felt about the service",
+        "And explain how you felt about the service"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 24,
+      "topic": "生活精彩有趣的老人",
+      "question": "Describe an old person you know who has had an interesting life",
+      "cue_card": [
+        "Who this person is",
+        "Where he/she lives",
+        "What he/she has done in his/her life",
+        "And explain how you feel about him/her",
+        "And explain how you feel about him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 25,
+      "topic": "向小辈展示新东西",
+      "question": "Describe a time that you showed something which was new to a person who was younger than you",
+      "cue_card": [
+        "When it was",
+        "What it was",
+        "Who you showed it to",
+        "How you showed it",
+        "Why you showed it",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 26,
+      "topic": "有用的发明",
+      "question": "Describe an invention that is useful in your daily life",
+      "cue_card": [
+        "What the invention is",
+        "What it can do",
+        "How popular it is",
+        "Whether it is difficult or easy to use",
+        "And explain why it is useful",
+        "And explain why it is useful"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 27,
+      "topic": "印象深刻的课程",
+      "question": "Describe a course that impressed you a lot",
+      "cue_card": [
+        "What the course was about",
+        "Where you took the course",
+        "What you did during the course",
+        "And explain why it impressed you a lot",
+        "And explain why it impressed you a lot"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 28,
+      "topic": "有趣的邻居",
+      "question": "Describe an interesting neighbor",
+      "cue_card": [
+        "Who he/she is",
+        "How you knew him/her",
+        "What you do together",
+        "And explain why he/she is interesting",
+        "And explain why he/she is interesting"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 29,
+      "topic": "快乐活动",
+      "question": "Describe a time when you organized a happy event successfully",
+      "cue_card": [
+        "What the event was",
+        "How you prepared for it",
+        "Who helped you to organize it",
+        "And explain why you think it was a successful event",
+        "And explain why you think it was a successful event"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 30,
+      "topic": "想要共事的家人",
+      "question": "Describe a family member who you want to work with in the future",
+      "cue_card": [
+        "Who he/she is",
+        "Whether you worked together before",
+        "What kind of work you would like to do with him/her",
+        "And explain how you feel about this family member",
+        "And explain how you feel about this family member"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 31,
+      "topic": "重要河流 /湖泊",
+      "question": "Describe an important river/lake in your country",
+      "cue_card": [
+        "Where it is located",
+        "How big/long it is",
+        "What it looks like",
+        "And explain why it is important",
+        "And explain why it is important"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 32,
+      "topic": "提高注意力",
+      "question": "Describe something you do that can help you concentrate on work/study",
+      "cue_card": [
+        "What it is",
+        "How it helps you concentrate",
+        "When you do it",
+        "And explain how you feel about it",
+        "And explain how you feel about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 33,
+      "topic": "传统产品",
+      "question": "Describe a traditional product in your country",
+      "cue_card": [
+        "What it is",
+        "When you tried this product for the first time",
+        "What it is made of",
+        "And explain how you feel about it",
+        "And explain how you feel about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 34,
+      "topic": "有趣的讨论",
+      "question": "Describe an interesting discussion you had with your friend",
+      "cue_card": [
+        "What the discussion was about",
+        "What opinions you and your friend had",
+        "Why you think the discussion was interesting",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 35,
+      "topic": "一个去过的新地方",
+      "question": "Describe a time you visited a new place",
+      "cue_card": [
+        "Where the new place is",
+        "When you went there",
+        "Why you went there",
+        "And explain how you feel about the place",
+        "And explain how you feel about the place"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 36,
+      "topic": "社交媒体上常刷的人",
+      "question": "Describe a person who you follow on social media",
+      "cue_card": [
+        "Who he/she is",
+        "How you knew him/her",
+        "What he/she posts on social media",
+        "And explain why you follow him/her on social media",
+        "And explain why you follow him/her on social media"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 37,
+      "topic": "喜欢一起聊天的朋友",
+      "question": "Describe a friend you like to talk with",
+      "cue_card": [
+        "Who he/she is",
+        "What you like to talk about",
+        "Why you like to talk with him/her",
+        "And explain how you feel about him/her",
+        "And explain how you feel about him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 38,
+      "topic": "花费甚少的外出日",
+      "question": "Describe a special day out that cost you little money/didn't cost you much",
+      "cue_card": [
+        "When the day was",
+        "Where you went",
+        "How much you spent",
+        "And explain how you feel about the day",
+        "And explain how you feel about the day"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 39,
+      "topic": "有趣的歌曲",
+      "question": "Describe an interesting song",
+      "cue_card": [
+        "What the song is",
+        "What story the song tells",
+        "Whether the song is popular",
+        "And explain why you think it is interesting",
+        "And explain why you think it is interesting"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 40,
+      "topic": "生活中离不开的东西",
+      "question": "Describe something that you can't live without (not a computer/phone)",
+      "cue_card": [
+        "What it is",
+        "What you do with it",
+        "How it helps you in your life",
+        "And explain why you can't live without it",
+        "And explain why you can't live without it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 41,
+      "topic": "语言学习",
+      "question": "Describe a thing you did to learn another language",
+      "cue_card": [
+        "What language you learned",
+        "What you did",
+        "How it helped you learn the language",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 42,
+      "topic": "惊喜之事",
+      "question": "Describe something that surprised you and made you happy",
+      "cue_card": [
+        "What it was",
+        "Who did this",
+        "How you found out about it and what you did",
+        "And explain why it surprised you and made you happy",
+        "And explain why it surprised you and made you happy"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 43,
+      "topic": "远距离步行",
+      "question": "Describe a long walk you ever had",
+      "cue_card": [
+        "When this happened",
+        "Where you walked",
+        "Who you were with",
+        "And explain how you felt about this long walk",
+        "And explain how you felt about this long walk"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 44,
+      "topic": "一次非常忙碌的经历",
+      "question": "Describe a time you were very busy",
+      "cue_card": [
+        "When it happened",
+        "Where you were",
+        "What you did",
+        "And explain why you were busy",
+        "And explain why you were busy"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 45,
+      "topic": "别人给你的衣服",
+      "question": "Describe an item of clothing that someone gave you",
+      "cue_card": [
+        "What the clothing was",
+        "Who gave it to you",
+        "When you got it",
+        "And explain why this person gave you the clothing",
+        "And explain why this person gave you the clothing"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 46,
+      "topic": "困难决定终成功",
+      "question": "Describe a difficult decision that you made and had a good result",
+      "cue_card": [
+        "What the decision was",
+        "When you made that decision",
+        "Why it was difficult to make",
+        "And explain how you felt about the good result",
+        "And explain how you felt about the good result"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 47,
+      "topic": "你的国家的名人",
+      "question": "Describe a popular/well- known person in your country",
+      "cue_card": [
+        "Who this person is",
+        "What he/she has done",
+        "Why he/she is popular",
+        "And explain how you feel about this person",
+        "And explain how you feel about this person"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 48,
+      "topic": "庆祝过的活动",
+      "question": "Describe an important event you celebrated",
+      "cue_card": [
+        "What the event was",
+        "When it happened",
+        "Who attended the event",
+        "And explain how you felt about the event",
+        "And explain how you felt about the event"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 49,
+      "topic": "想参加的比赛",
+      "question": "Describe a contest/competition you would like to participate in",
+      "cue_card": [
+        "What the contest/competition is about",
+        "Where the contest/competition will take place",
+        "When it will be held",
+        "And explain why you would like to participate in it",
+        "And explain why you would like to participate in it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 50,
+      "topic": "收到特殊蛋糕",
+      "question": "Describe a special cake you received from others",
+      "cue_card": [
+        "When it happened",
+        "Where it happened",
+        "Who you got the cake from",
+        "And explain why it's a special cake",
+        "And explain why it's a special cake"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 51,
+      "topic": "童年喜欢的玩具",
+      "question": "Describe a toy you liked in your childhood",
+      "cue_card": [
+        "What kind of toy it is",
+        "When you received it",
+        "How you played it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 52,
+      "topic": "对社会有贡献的人",
+      "question": "Describe a person who contributes to the society",
+      "cue_card": [
+        "Who this person is",
+        "How you knew him/her",
+        "What type of work he/she does",
+        "And explain why you think he/she contributes to the societ y",
+        "And explain why you think he/she contributes to the societ y"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 53,
+      "topic": "征求意见",
+      "question": "Describe a time when someone asked for your opinion",
+      "cue_card": [
+        "Who asked for your opinion",
+        "Why he/she wanted to know your opinion",
+        "What opinion you gave",
+        "And explain how you felt when he/she asked for your opinion",
+        "And explain how you felt when he/she asked for your opinion"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 54,
+      "topic": "交通拥堵",
+      "question": "Describe a time when you were stuck in a traffic jam",
+      "cue_card": [
+        "When it happened",
+        "Where you were stuck",
+        "What you did while waiting",
+        "And explain how you felt in the traffic jam",
+        "And explain how you felt in the traffic jam"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 55,
+      "topic": "丢东西的经历",
+      "question": "Describe an occasion that you lost something in public",
+      "cue_card": [
+        "What you lost",
+        "When and where you lost it",
+        "What you did to find it",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 56,
+      "topic": "有趣的城市",
+      "question": "Describe a city that you think is very interesting",
+      "cue_card": [
+        "Where it is",
+        "What it is famous for",
+        "How you knew this city",
+        "And explain why you think it is very interesting",
+        "And explain why you think it is very interesting"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 57,
+      "topic": "别人讲述的故事",
+      "question": "Describe a story someone told you and you remember",
+      "cue_card": [
+        "What the story was about",
+        "Who told you this story",
+        "Why you remember it",
+        "And how you feel about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 58,
+      "topic": "不喜欢并想要改变的规则",
+      "question": "Describe a rule you dislike and would like to change in the future",
+      "cue_card": [
+        "What it is",
+        "What it is for",
+        "Why you don't like it",
+        "And explain why you would like to change it",
+        "And explain why you would like to change it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 59,
+      "topic": "节约时间的方法/ 改变",
+      "question": "Describe a way/change that helps you save a lot of time",
+      "cue_card": [
+        "What it is",
+        "How you implement it",
+        "How difficult it is",
+        "And explain how you feel about the way/change",
+        "And explain how you feel about the way/change"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 60,
+      "topic": "安静的地方",
+      "question": "Describe a quiet place you like to go",
+      "cue_card": [
+        "Where it is",
+        "How you knew it",
+        "How often you go there",
+        "What you do there",
+        "And explain how you feel about the place",
+        "And explain how you feel about the place"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 61,
+      "topic": "工作 /学习中的积极建议",
+      "question": "Describe an occasion when someone gave you positive advice or suggestions",
+      "cue_card": [
+        "Who the person is",
+        "What he/she said",
+        "How the advice/suggestion affected you",
+        "And explain how you felt about the advice/suggestions",
+        "And explain how you felt about the advice/suggestions"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 62,
+      "topic": "好的人生变化",
+      "question": "Describe a time that something changed your life in good ways",
+      "cue_card": [
+        "When and where it happened",
+        "What happened",
+        "How you felt about it",
+        "And explain how it changed your life in good ways",
+        "And explain how it changed your life in good ways"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 63,
+      "topic": "保健方式",
+      "question": "Describe something you do to keep fit and healthy",
+      "cue_card": [
+        "What it is",
+        "When you do it",
+        "Who you do it with",
+        "Why it is important to keep fit and healthy",
+        "And explain why it can help you keep fit and healthy",
+        "And explain why it can help you keep fit and healthy"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 64,
+      "topic": "坏掉又修好的东西",
+      "question": "Describe something that was broken in your home and then repaired",
+      "cue_card": [
+        "What it is",
+        "How it was broken",
+        "How you got it repaired"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 65,
+      "topic": "一见且想再见的人",
+      "question": "Describe a person you only met once recently and want to know more about",
+      "cue_card": [
+        "Who he/she is",
+        "When you met him/her",
+        "Why you want to know more about him/her",
+        "And explain how you feel about him/her",
+        "And explain how you feel about him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 66,
+      "topic": "送朋友的礼物",
+      "question": "Describe a gift you would like to buy for your friend",
+      "cue_card": [
+        "How you knew your friend",
+        "How long you have known him/her",
+        "How you would choose a gift for him/her",
+        "And explain why you would choose that gift for him/her",
+        "And explain why you would choose that gift for him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 67,
+      "topic": "去过的乡村",
+      "question": "Describe a countryside that you have been to",
+      "cue_card": [
+        "Where it is",
+        "When and why you went there",
+        "Who you went there with",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 68,
+      "topic": "想共度时光的人",
+      "question": "Describe someone you really like to spend time with",
+      "cue_card": [
+        "Who this person is",
+        "How you knew him/her",
+        "What you usually do together",
+        "And explain why you like to spend time with him/her",
+        "And explain why you like to spend time with him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 69,
+      "topic": "壮志未酬",
+      "question": "Describe an ambition that you haven't achieved",
+      "cue_card": [
+        "What it is",
+        "Why you haven't achieved it",
+        "What you are doing about it now",
+        "And how you feel about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 70,
+      "topic": "向长者学习的技能",
+      "question": "Describe a skill that you learned from older people",
+      "cue_card": [
+        "What the skill is",
+        "Who you learned it from",
+        "How you learned it",
+        "And how you feel about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 71,
+      "topic": "用手机做重要事情",
+      "question": "Describe a time you used your cellphone/smartphone to do",
+      "cue_card": [
+        "What happened",
+        "When it happened",
+        "How important the cellphone/smartphone was",
+        "And explain how you felt about the experience",
+        "And explain how you felt about the experience"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 72,
+      "topic": "帮助小孩",
+      "question": "Describe a time when you helped a child",
+      "cue_card": [
+        "When it was",
+        "How you helped him/her",
+        "Why you helped him/her",
+        "And how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 73,
+      "topic": "免费物品",
+      "question": "Describe something you received for free",
+      "cue_card": [
+        "What it was",
+        "Who you received it from",
+        "Where you received it",
+        "And how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 74,
+      "topic": "造福社会的工作",
+      "question": "Describe a job that is useful to the society",
+      "cue_card": [
+        "What job it is",
+        "How you know about this job",
+        "What types of people do this job",
+        "And explain why you think this job is useful to the society",
+        "And explain why you think this job is useful to the society"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 75,
+      "topic": "去过且推荐的宜居之地",
+      "question": "Describe a place you have been to and would like to recommend others to live",
+      "cue_card": [
+        "Where it is",
+        "What the place is like",
+        "When you visited there",
+        "Who you went there with",
+        "And explain why you would recommend this place to others",
+        "And explain why you would recommend this place to others"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 76,
+      "topic": "改变世界的发明",
+      "question": "Describe an invention that has changed the world in a positive way",
+      "cue_card": [
+        "What it is",
+        "What benefits it has brought",
+        "How it influences people of different ages",
+        "And explain how it changed people's lives",
+        "And explain how it changed people's lives"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 77,
+      "topic": "宜居之城",
+      "question": "Describe a place (city/town) that is good for people to live in",
+      "cue_card": [
+        "Where it is",
+        "How you knew this place",
+        "What it is like",
+        "And explain why it is better than other places to live in",
+        "And explain why it is better than other places to live in"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 78,
+      "topic": "喜欢买便宜货的人",
+      "question": "Describe a person who likes to buy goods with low prices",
+      "cue_card": [
+        "Who this person is",
+        "What this person likes to buy",
+        "Where this person likes to buy things",
+        "And explain why this person likes cheap goods",
+        "And explain why this person likes cheap goods"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 79,
+      "topic": "重要植物",
+      "question": "Describe an important plant in your country",
+      "cue_card": [
+        "What it is",
+        "Where you see it",
+        "What it looks like",
+        "And explain why it is important",
+        "And explain why it is important"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 80,
+      "topic": "历史建筑",
+      "question": "Describe a historical building you have been to",
+      "cue_card": [
+        "Where it is",
+        "What it looks like",
+        "What it is used for now",
+        "what you learned there",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 81,
+      "topic": "音乐爱好者",
+      "question": "Describe a person who thinks music is important and enjoys music",
+      "cue_card": [
+        "Who this person is",
+        "How you knew him/her",
+        "What music he/she likes",
+        "Why he/she thinks music is important",
+        "And explain how you feel about him/her",
+        "And explain how you feel about him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 82,
+      "topic": "穿最好的衫",
+      "question": "Describe an occasion you wore the best clothes",
+      "cue_card": [
+        "When it was",
+        "What you wore",
+        "Why you wore it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 83,
+      "topic": "学习之地",
+      "question": "Describe an indoor or outdoor place where it is easy for you to study",
+      "cue_card": [
+        "Where it is",
+        "What it is like",
+        "When you go there",
+        "What you study there",
+        "And explain why you would like to study in this place",
+        "And explain why you would like to study in this place"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 84,
+      "topic": "迟到",
+      "question": "Describe a time when you missed or were late for an important meeting/event",
+      "cue_card": [
+        "When it happened",
+        "What happened",
+        "Why you missed/were late for it",
+        "And explain how you felt about this experience",
+        "And explain how you felt about this experience"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 85,
+      "topic": "昂贵地方",
+      "question": "Describe a place you have been to where things are expensive",
+      "cue_card": [
+        "Where the place is",
+        "What the place is like",
+        "Why you went there",
+        "What you bought there",
+        "And explain why you think things are expensive there",
+        "And explain why you think things are expensive there"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 86,
+      "topic": "别人做的特殊一餐",
+      "question": "Describe a special meal that someone made for you",
+      "cue_card": [
+        "Who did it",
+        "When and how he/she cooked",
+        "What and why he/she cooked for you",
+        "And explain how you felt about the meal",
+        "And explain how you felt about the meal"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 87,
+      "topic": "想换掉的东西",
+      "question": "Describe something you own that you want to replace",
+      "cue_card": [
+        "What it is",
+        "Where it is",
+        "How you got it",
+        "And explain why you want to replace it",
+        "And explain why you want to replace it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 88,
+      "topic": "想颁布的新法律",
+      "question": "Describe a new law you would like to introduce in your country",
+      "cue_card": [
+        "What law it is",
+        "What changes this law brings",
+        "Whether this new law will be popular",
+        "How you came up with the new law",
+        "And explain how you feel about this new law",
+        "And explain how you feel about this new law"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 89,
+      "topic": "愉悦的公共交通之旅",
+      "question": "Describe an enjoyable journey by public transport",
+      "cue_card": [
+        "Where you went",
+        "Who you were with",
+        "What you did"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 90,
+      "topic": "收到想要物品",
+      "question": "Describe a time when someone gave you something that you really wanted",
+      "cue_card": [
+        "What it was",
+        "When you received it",
+        "Who gave it to you",
+        "And explain why you wanted it so much",
+        "And explain why you wanted it so much"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 91,
+      "topic": "很开心认识的人（ *11月低频题）",
+      "question": "Describe a person who you are happy to know",
+      "cue_card": [
+        "Who this person is",
+        "How you know this person",
+        "What he or she is like",
+        "And explain why you are happy to know him/her",
+        "And explain why you are happy to know him/her"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 92,
+      "topic": "和朋友去的有趣地方 （*11月低频题）",
+      "question": "Describe an interesting place you have been to with a friend",
+      "cue_card": [
+        "What and where the place is",
+        "Who you went with",
+        "When you went there",
+        "What you did there",
+        "And explain why you think it is interesting",
+        "And explain why you think it is interesting"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 93,
+      "topic": "有趣的老人",
+      "question": "Describe an interesting old person you have met",
+      "cue_card": [
+        "Who this person is",
+        "When/where you met this person",
+        "What you did with this person",
+        "And explain why you think this person is interesting",
+        "And explain why you think this person is interesting"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 94,
+      "topic": "鼓励你达成目标的人",
+      "question": "Describe a person who encouraged you to achieve your goal",
+      "cue_card": [
+        "Who the person is",
+        "How he/she encouraged you",
+        "What goal you achieved",
+        "And explain how you feel about this person",
+        "And explain how you feel about this person"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 95,
+      "topic": "少人去的景点",
+      "question": "Describe a tourist attraction that very few people visit but you think is interesting",
+      "cue_card": [
+        "What the place is",
+        "What people can see there",
+        "Why only very few people visit there",
+        "And explain why you think it is interesting",
+        "And explain why you think it is interesting"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 96,
+      "topic": "经常拍照的地方",
+      "question": "Describe a place where you have taken photos more than once",
+      "cue_card": [
+        "Where the place is",
+        "When you took the photos",
+        "What special features the photos taken there have",
+        "And explain why you have been there more than once to take photos",
+        "And explain why you have been there more than once to take photos"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 97,
+      "topic": "嘈杂地",
+      "question": "Describe a noisy place you have been to",
+      "cue_card": [
+        "Where it is",
+        "When you went there",
+        "What you did there",
+        "And explain why you feel it's a noisy place",
+        "And explain why you feel it's a noisy place"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 98,
+      "topic": "冒风险",
+      "question": "Describe a risk you took that you thought would lead to a terrible result but ended up with a positive result",
+      "cue_card": [
+        "When you took the risk",
+        "Why you took the risk",
+        "How it went",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 99,
+      "topic": "自然之地",
+      "question": "Describe a natural place (e.g. parks, mountains)",
+      "cue_card": [
+        "Where this place is",
+        "How you knew this place",
+        "What it is like",
+        "And explain why you like to visit it",
+        "And explain why you like to visit it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 100,
+      "topic": "年轻人的偶像 （*11月低频题）",
+      "question": "Describe someone (a famous person) that is a role model for young people",
+      "cue_card": [
+        "Who he/she is",
+        "How you knew him/her",
+        "What he/she has done",
+        "And explain why he/she can be a role model for young people",
+        "And explain why he/she can be a role model for young people"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 101,
+      "topic": "一张照片 /画",
+      "question": "Describe a picture/photograph of you that you like",
+      "cue_card": [
+        "Where it was taken/drawn",
+        "When it was taken/drawn",
+        "Who took/drew it",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 102,
+      "topic": "看过并想尝试的运动",
+      "question": "Describe a sport you watched and would like to try",
+      "cue_card": [
+        "When and where you watched it",
+        "Why you watched it",
+        "Who you watched it with",
+        "Whether you will do it in the future",
+        "And explain how you felt about it",
+        "And explain how you felt about it"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 103,
+      "topic": "聚会",
+      "question": "Describe a party that you enjoyed",
+      "cue_card": [
+        "When and where the party was held",
+        "Who attended the party",
+        "What kind of party it was",
+        "What you did in the party",
+        "And explain why you enjoyed this party",
+        "And explain why you enjoyed this party"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    },
+    {
+      "id": 104,
+      "topic": "别人做的好决定",
+      "question": "Describe someone you know who made a good decision recently",
+      "cue_card": [
+        "Who he/she is",
+        "When he/she made the decision",
+        "What decision he/she made",
+        "Why it was a good decision",
+        "And explain how you felt about the decision",
+        "And explain how you felt about the decision"
+      ],
+      "time": 120,
+      "preparation_time": 60
+    }
+  ],
+  "part3": [
+    {
+      "id": 1,
+      "topic": "学到新东西的网络视频",
+      "question": "What kinds of videos are most popular in your country?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "学到新东西的网络视频",
+      "question": "Are there many people who watch online videos a lot?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "学到新东西的网络视频",
+      "question": "Do you think people spend too much time watching short videos? Why?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "学到新东西的网络视频",
+      "question": "Why are so many young people obsessed with short videos?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "学到新东西的网络视频",
+      "question": "What are the advantages of online learning?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "学到新东西的网络视频",
+      "question": "Do you think online learning will replace face -to-face learning?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "令你自信的事（ *11月低频题）",
+      "question": "How can a person become more confident?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "令你自信的事（ *11月低频题）",
+      "question": "What can teachers do to help their students become more confident?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "令你自信的事（ *11月低频题）",
+      "question": "How can teachers help their students become more confident by rewarding them for studying?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "令你自信的事（ *11月低频题）",
+      "question": "What can teachers do to make studying more interesting?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "令你自信的事（ *11月低频题）",
+      "question": "Do you think that children of confident parents are also confident?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "令你自信的事（ *11月低频题）",
+      "question": "Why do so many people lack confidence these days?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "固执已见的人（ *11月低频题）",
+      "question": "What do young people have strong opinions about?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "固执已见的人（ *11月低频题）",
+      "question": "What do old people have strong opinions about?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "固执已见的人（ *11月低频题）",
+      "question": "Are there many young people who have strong opinions in our lives?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "固执已见的人（ *11月低频题）",
+      "question": "Which is more important, listening to others or persuading others?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "固执已见的人（ *11月低频题）",
+      "question": "Do you think we should only say something after thinking it through?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "固执已见的人（ *11月低频题）",
+      "question": "Do you think it is good to have strong opinions?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "公共场所接陌生人电话",
+      "question": "Do most people mind others talking on the phone in public places?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "公共场所接陌生人电话",
+      "question": "What are the differences between sitting next to someone who talks on the phone and sitting next to people who talk to each other while traveling by train?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "公共场所接陌生人电话",
+      "question": "Why do some people not care about their actions in public?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "公共场所接陌生人电话",
+      "question": "Should parents teach their children to behave well in public?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "公共场所接陌生人电话",
+      "question": "Is it acceptable to talk on the phone in public?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "公共场所接陌生人电话",
+      "question": "Should people be banned from talking loudly in public places?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "重新联系的老友",
+      "question": "Is it better to have a lot of friends than just a few friends?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "重新联系的老友",
+      "question": "Would having just a few friends limit your horizons?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "重新联系的老友",
+      "question": "Do you think you are good at maintaining good relationships with others?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "重新联系的老友",
+      "question": "Why do old friends lose touch with each other?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "重新联系的老友",
+      "question": "Why do people need to make new friends?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "重新联系的老友",
+      "question": "Why do we have to give up some old friends?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "文化之地",
+      "question": "How does the internet affect culture?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "文化之地",
+      "question": "How is a culture formed?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "文化之地",
+      "question": "What kind of culture is popular among young people?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "文化之地",
+      "question": "How do young people learn about different cultures?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "文化之地",
+      "question": "Which is more important in terms of culture , literature or music?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "文化之地",
+      "question": "Does the culture of the past have an impact on today's culture?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "给建议的人",
+      "question": "Do you follow the advice of your family members?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "给建议的人",
+      "question": "Who should people ask for advice on big issues, family members or friends?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "给建议的人",
+      "question": "Do people often ask for advice from professional people, like a lawyer?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "给建议的人",
+      "question": "Why do some people like to ask others for advice on almost everything?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "给建议的人",
+      "question": "Do you think the advice parents give their children is always good?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "给建议的人",
+      "question": "Are professional consultancy services expensive in your country?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "拥挤地方",
+      "question": "Which cities are overcrowded in your country?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "拥挤地方",
+      "question": "Will there be more or less green space in cities in the future?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "拥挤地方",
+      "question": "Will people use bikes more or less in cities in the future?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "拥挤地方",
+      "question": "Why do people go to crowded places?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "拥挤地方",
+      "question": "Do you think there are some people who enjoy crowded places?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "拥挤地方",
+      "question": "Do you think it is a good trend to have more big cities?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "理想房屋",
+      "question": "What are apartments like in your country?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "理想房屋",
+      "question": "Why are apartments popular in some places while not in other places?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "理想房屋",
+      "question": "What would people normally consider when they rent or buy a house or an apartment?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "理想房屋",
+      "question": "Do different people have different preferences for houses or apartments?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "理想房屋",
+      "question": "Why do some people choose to live in the city center?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "理想房屋",
+      "question": "What do you think buildings will be like in the future?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "近期观影",
+      "question": "What kinds of movies do you think are successful in your country?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "近期观影",
+      "question": "What are the factors that make a successful movie?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "近期观影",
+      "question": "Do Chinese people prefer to watch domestic movies or foreign movies?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "近期观影",
+      "question": "Do you think only well -known directors can create the best movies?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "近期观影",
+      "question": "Do you think successful movies should have well -known actors or actresses in leading roles?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "近期观影",
+      "question": "Why do people prefer to watch movies in the cinema?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "帮助亲人",
+      "question": "How can children help their parents at home?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "帮助亲人",
+      "question": "Should parents always help their children with everything?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "帮助亲人",
+      "question": "What can children learn by helping others?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "帮助亲人",
+      "question": "Should parents reward their children when they help others?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "帮助亲人",
+      "question": "Do neighbours often help each other in your country?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "帮助亲人",
+      "question": "How do people know that their neighbours might need help?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "医疗人士",
+      "question": "Do you think doctors and nurses are very important?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "医疗人士",
+      "question": "Who plays a more important role, doctors or nurses?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "医疗人士",
+      "question": "Do you think that doctors and nurses are not paid enough?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "医疗人士",
+      "question": "Do you think it is necessary to learn first aid skills?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "医疗人士",
+      "question": "What are the differences between the work of a doctor and a nurse?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "医疗人士",
+      "question": "Can a hospital function effectively without nurses?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "弄丢贵重物品",
+      "question": "What are some common items that people tend to lose easily?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "弄丢贵重物品",
+      "question": "What are the reasons why people often misplace or lose things?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "弄丢贵重物品",
+      "question": "What do people often do after losing things?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "弄丢贵重物品",
+      "question": "What should parents do to teach their children not to lose things?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "弄丢贵重物品",
+      "question": "Are there any good ways to remind us not to forget or lose things?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "弄丢贵重物品",
+      "question": "Is it important for students to be organized?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "获奖",
+      "question": "Do you think competition is all about the prize?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "获奖",
+      "question": "Why should we set prizes for competitions?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "获奖",
+      "question": "What prizes should schools set for students?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "获奖",
+      "question": "What criteria should be set for students to win a particular prize?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "获奖",
+      "question": "Why do many companies offer prizes to their customers?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "获奖",
+      "question": "Why do some companies encourage employees to compete with each other?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "遇到困难挑战 （*11月低频题）",
+      "question": "What do children often do when they face a challenge?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "遇到困难挑战 （*11月低频题）",
+      "question": "Is it easy for children to overcome a challenge?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "遇到困难挑战 （*11月低频题）",
+      "question": "Do most people choose to face a challenge alone or with others?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "遇到困难挑战 （*11月低频题）",
+      "question": "What activities do you think would make children feel challenged? Why?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "遇到困难挑战 （*11月低频题）",
+      "question": "What challenges would people face when learning new sports?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "遇到困难挑战 （*11月低频题）",
+      "question": "Why do some people enjoy doing extreme sports?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "读书迷",
+      "question": "Why are many people so keen on reading?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "读书迷",
+      "question": "Do you think parents should help their children develop the reading habit from an early age?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "读书迷",
+      "question": "Is reading for fun or for work?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "读书迷",
+      "question": "What reading topics are popular in your country?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "读书迷",
+      "question": "What are the differences between paper books and movies?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "读书迷",
+      "question": "Do you think people of all ages need to read?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "喜欢做手工的人",
+      "question": "Are traditional handicrafts important to tourism?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "喜欢做手工的人",
+      "question": "What are the benefits for students to learn to make things by hand?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "喜欢做手工的人",
+      "question": "Why do many children like to make things by hand?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "喜欢做手工的人",
+      "question": "Are there any traditional handicrafts in your hometown?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "喜欢做手工的人",
+      "question": "Is it reasonable to charge a high price for handmade things?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "喜欢做手工的人",
+      "question": "How does modern technology change the handicraft industry?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "喜欢和亲友去的地方",
+      "question": "What are the differences between big cities and small cities?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "喜欢和亲友去的地方",
+      "question": "Where do people in your hometown like to go?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "喜欢和亲友去的地方",
+      "question": "What are the differences between the places young people like to go and the places old people like to go?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "喜欢和亲友去的地方",
+      "question": "What do young people like to do in their leisure time?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "喜欢和亲友去的地方",
+      "question": "Do you think it is necessary to visit the same place many times?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "喜欢和亲友去的地方",
+      "question": "What factors attract people to go to visit other places other than their hometown?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "公园 /花园",
+      "question": "Is it necessary to have public parks in cities?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "公园 /花园",
+      "question": "What facilities are needed in a park?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "公园 /花园",
+      "question": "What are the differences between a garden and a natural area?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "公园 /花园",
+      "question": "Why do people like to visit tourist attractions?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "公园 /花园",
+      "question": "What tourist attractions are popular in China?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "公园 /花园",
+      "question": "How can we encourage young people to go to parks more often?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "传统节日的食物",
+      "question": "Do people in your country grow plants at home?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "传统节日的食物",
+      "question": "What plants can people grow in cities?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "传统节日的食物",
+      "question": "Are there any difficulties when people grow plants in cities?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "传统节日的食物",
+      "question": "Do most people prefer vegetables bought from the supermarket or grown at home?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "传统节日的食物",
+      "question": "Why do people like to have a big meal at traditional festivals or big events?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "传统节日的食物",
+      "question": "Is it bad behavior for people to look at their phones during a meal?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "别人房间（ *11月低频题）",
+      "question": "Do you like to invite your friends to your home?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "别人房间（ *11月低频题）",
+      "question": "Do most people visit other people's houses during the Spring Festival?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "别人房间（ *11月低频题）",
+      "question": "Why do people often take gifts with them when they visit others  ' homes?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "别人房间（ *11月低频题）",
+      "question": "What are the most enjoyable parts of having a meal together with your family?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "别人房间（ *11月低频题）",
+      "question": "Who likes to stay at home more, young people or old people?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "别人房间（ *11月低频题）",
+      "question": "Do you think old people will be able to keep up with the pace of technology in 50 years?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "看到野生动物的地方",
+      "question": "Why are most children interested in wild animals?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "看到野生动物的地方",
+      "question": "Should parents take their children to the zoo to see wild animals?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "看到野生动物的地方",
+      "question": "Are wild animals easy to spot in your country?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "看到野生动物的地方",
+      "question": "Are there many wildlife documentaries produced in your country?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "看到野生动物的地方",
+      "question": "What impacts does only seeing wild animals in zoos have on children's understanding of these animals?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "看到野生动物的地方",
+      "question": "Which is the better way to see wildlife, watching documentaries or going into the wild?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "购物服务",
+      "question": "Why are shopping malls so popular in China?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "购物服务",
+      "question": "What are the advantages and disadvantages of shopping in small shops?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "购物服务",
+      "question": "Why do some people not like shopping in small shops?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "购物服务",
+      "question": "What are the differences between online shopping and in-store shopping?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "购物服务",
+      "question": "What are the advantages and disadvantages of shopping online?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "购物服务",
+      "question": "Can consumption drive economic growth?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "生活精彩有趣的老人",
+      "question": "What do old people often do in their daily lives?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "生活精彩有趣的老人",
+      "question": "Why do some people live with old people?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "生活精彩有趣的老人",
+      "question": "Can old people and their grandchildren learn from each other when they live together?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "生活精彩有趣的老人",
+      "question": "What are the benefits of elderly people living alone?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "生活精彩有趣的老人",
+      "question": "Do old people prefer to stay at home or go outside? Why?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "生活精彩有趣的老人",
+      "question": "Do you think old people's life will improve with the development of technology?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "向小辈展示新东西",
+      "question": "What skills should children learn?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "向小辈展示新东西",
+      "question": "What are the differences between the things adults learn and the things that children learn?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "向小辈展示新东西",
+      "question": "Why are some people not willing to ask help from others while studying?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "向小辈展示新东西",
+      "question": "What skills do you think children should learn before going to school?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "向小辈展示新东西",
+      "question": "How can young people be motivated to learn new things?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "向小辈展示新东西",
+      "question": "Is it possible for a person to achieve something without motivation?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "有用的发明",
+      "question": "What qualities do inventors have?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "有用的发明",
+      "question": "Do you think only scientists can invent new things?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "有用的发明",
+      "question": "What inventions do you think should be improved?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "有用的发明",
+      "question": "Are there any other inventions that make the world better?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "有用的发明",
+      "question": "Do all inventions bring benefits to our world?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "有用的发明",
+      "question": "Who should support and sponsor inventors, governments, or private companies?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "印象深刻的课程",
+      "question": "Why do some people have a better memory than others?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "印象深刻的课程",
+      "question": "Do people like things of memorial significance?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "印象深刻的课程",
+      "question": "Which can help people remember things better , words or photos?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "印象深刻的课程",
+      "question": "Can technology help people remember things better? How?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "印象深刻的课程",
+      "question": "What do people need to remember in their daily lives?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "印象深刻的课程",
+      "question": "What can we learn from history?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "有趣的邻居",
+      "question": "Do you think people are familiar with their neighbors?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "有趣的邻居",
+      "question": "How can people improve the relationship with neighbors in a community?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "有趣的邻居",
+      "question": "How do children build relationships with others in a community?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "有趣的邻居",
+      "question": "Is it beneficial to get along well with neighbors?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "有趣的邻居",
+      "question": "Why do many people in big cities not know their neighbors?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "有趣的邻居",
+      "question": "How do people build relationships with local people in a new place?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "快乐活动",
+      "question": "How can parents help children to be organized?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "快乐活动",
+      "question": "On what occasions do people need to be organized?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "快乐活动",
+      "question": "Does everything need to be well prepared?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "快乐活动",
+      "question": "Do people need others' help when organizing things?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "快乐活动",
+      "question": "How would you feel when you were not well prepared for something?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "快乐活动",
+      "question": "Do you prefer to prepare and organize an activity or just take part in",
+      "time": 120
+    },
+    {
+      "id": 7,
+      "topic": "快乐活动",
+      "question": "an activity?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "想要共事的家人",
+      "question": "What kinds of family businesses are common in China?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "想要共事的家人",
+      "question": "Is it good to work with family members? Why?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "想要共事的家人",
+      "question": "Why do people want to have a family business?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "想要共事的家人",
+      "question": "What benefits are there when working for big companies?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "想要共事的家人",
+      "question": "Why do people want to change their jobs?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "想要共事的家人",
+      "question": "What do people need to do to change their jobs?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "重要河流 /湖泊",
+      "question": "How can rivers and lakes benefit local people?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "重要河流 /湖泊",
+      "question": "Do you think rivers and lakes attract tourists?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "重要河流 /湖泊",
+      "question": "How do rivers and lakes affect local tourism?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "重要河流 /湖泊",
+      "question": "Are rivers and lakes good for transport? Why?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "重要河流 /湖泊",
+      "question": "What are the popular water sports in your country?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "重要河流 /湖泊",
+      "question": "Are rivers and lakes important to a country?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "提高注意力",
+      "question": "Why is it more difficult for children to concentrate nowadays than in the past?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "提高注意力",
+      "question": "Do you think technology will harm children's ability to concentrate?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "提高注意力",
+      "question": "What kinds of jobs require high concentration at work?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "提高注意力",
+      "question": "Can exercise help people improve concentration?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "提高注意力",
+      "question": "Is it important for children to concentrate on their studies? Why?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "提高注意力",
+      "question": "What can people do to improve their ability to concentrate?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "传统产品",
+      "question": "Why are traditional products important?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "传统产品",
+      "question": "Do you think traditions are important for a country? Why?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "传统产品",
+      "question": "What are some traditional Chinese products?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "传统产品",
+      "question": "Why is it important for children to learn about traditional products?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "传统产品",
+      "question": "Do you think people should be proud of their own culture? Why?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "传统产品",
+      "question": "Where should children learn about culture, at school or at home?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "有趣的讨论",
+      "question": "When do children normally form their own views?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "有趣的讨论",
+      "question": "Do children have strong opinions?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "有趣的讨论",
+      "question": "Should parents require their kids to obey them?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "有趣的讨论",
+      "question": "In what industries do you think communication is a necessary skill?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "有趣的讨论",
+      "question": "Should parents consider their children's opinions on everything? Why?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "有趣的讨论",
+      "question": "Why do some young people refuse to communicate with others?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "一个去过的新地方",
+      "question": "Which do you prefer, living in a city or only visiting it as a tourist?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "一个去过的新地方",
+      "question": "How do young children react when they go to school for the first time?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "一个去过的新地方",
+      "question": "Why do some people want to go to college far away from home?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "一个去过的新地方",
+      "question": "How do young and old people react differently to new things?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "一个去过的新地方",
+      "question": "Do you think it's important to get as much information as possible before going to a new place?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "一个去过的新地方",
+      "question": "Why do many people enjoy visiting a new place?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "社交媒体上常刷的人",
+      "question": "What can people do on social media?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "社交媒体上常刷的人",
+      "question": "Do older people and younger people use the same kinds of social media apps?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "社交媒体上常刷的人",
+      "question": "Do older people spend much time on social media?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "社交媒体上常刷的人",
+      "question": "Are non- social media like television and newspapers still useful?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "社交媒体上常刷的人",
+      "question": "Do you think people will read paper newspapers and books in the future? Why?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "社交媒体上常刷的人",
+      "question": "Do you think it is easy to make friends on social media?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "喜欢一起聊天的朋友",
+      "question": "Where do young people like to meet?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "喜欢一起聊天的朋友",
+      "question": "What do young people talk about when they meet up?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "喜欢一起聊天的朋友",
+      "question": "Do you think people should be honest when talking with friends?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "喜欢一起聊天的朋友",
+      "question": "On what occasions do people talk with strangers?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "喜欢一起聊天的朋友",
+      "question": "What makes a good listener?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "喜欢一起聊天的朋友",
+      "question": "What are the differences between talking to a friend and talking to a stranger?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "花费甚少的外出日",
+      "question": "Do people like to spend their leisure time out in your country?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "花费甚少的外出日",
+      "question": "How do people spend their leisure time in your country?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "花费甚少的外出日",
+      "question": "How does technology affect the way people spend their leisure time?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "花费甚少的外出日",
+      "question": "Do you think only old people have time for leisure?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "花费甚少的外出日",
+      "question": "Why do people like to have days off?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "花费甚少的外出日",
+      "question": "Going out to have holidays is tiring. Why do people still want to do it?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "有趣的歌曲",
+      "question": "Why are many music competitions popular in China?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "有趣的歌曲",
+      "question": "What kinds of music do young people like?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "有趣的歌曲",
+      "question": "What kinds of people like traditional music?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "有趣的歌曲",
+      "question": "What are the differences between live concert and online concert?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "有趣的歌曲",
+      "question": "Do you like to watch music TV programs? Why?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "有趣的歌曲",
+      "question": "Are foreign songs popular in your country?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "生活中离不开的东西",
+      "question": "Why are children attracted to new things (such as electronics)?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "生活中离不开的东西",
+      "question": "Why do some grown -ups hate to throw out old things (such as clothes)?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "生活中离不开的东西",
+      "question": "Is the way people buy things affected? How?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "生活中离不开的东西",
+      "question": "What do you think influences people to buy new things?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "生活中离不开的东西",
+      "question": "Why do all children like toys?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "生活中离不开的东西",
+      "question": "Do you think it is good for a child to always take his or her favourite toy with them all the time?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "语言学习",
+      "question": "What difficulties do people face when learning a language?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "语言学习",
+      "question": "Do you think language learning is important? Why?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "语言学习",
+      "question": "Which is better, to study a language alone or to study it in a group? Why?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "语言学习",
+      "question": "What's the best way to learn a language?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "语言学习",
+      "question": "What are the advantages and disadvantages of learning a language?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "语言学习",
+      "question": "Some people think that technology has made it unnecessary to learn languages. What do you think?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "惊喜之事",
+      "question": "How do people express happiness in your culture?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "惊喜之事",
+      "question": "Do you think happiness has any effect on people? How?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "惊喜之事",
+      "question": "How can people be happy?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "惊喜之事",
+      "question": "Is it good for people to be unhappy? Why?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "惊喜之事",
+      "question": "Do men and women have different attitudes and feelings about shopping?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "惊喜之事",
+      "question": "What do people usually spend money on?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "远距离步行",
+      "question": "What outdoor activities do people like?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "远距离步行",
+      "question": "What are the differences between the outdoor activities children did in the past and now?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "远距离步行",
+      "question": "Is leisure time important to everyone? Why?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "远距离步行",
+      "question": "Do women have more leisure time than men?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "远距离步行",
+      "question": "What are the benefits of outdoor activities for children?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "远距离步行",
+      "question": "Do you think that walking is not as helpful as playing other sports for our health?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "一次非常忙碌的经历",
+      "question": "Are you often busy ？",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "一次非常忙碌的经历",
+      "question": "What are the advantages and disadvantages when people keep busy ？",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "一次非常忙碌的经历",
+      "question": "Do you think children should learn through playing games or under pressure?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "一次非常忙碌的经历",
+      "question": "What kind of pressure people may experience at work?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "一次非常忙碌的经历",
+      "question": "How does technology help with time management?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "一次非常忙碌的经历",
+      "question": "Does technology distract people?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "别人给你的衣服",
+      "question": "Why do people from different countries wear different clothing?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "别人给你的衣服",
+      "question": "What are the advantages and disadvantages of wearing uniforms at work and school?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "别人给你的衣服",
+      "question": "Why do people dress casually in everyday life but dress formally at work?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "别人给你的衣服",
+      "question": "Have you ever given clothes to others?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "别人给你的衣服",
+      "question": "What are the advantages and disadvantages of wearing a uniform at school?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "别人给你的衣服",
+      "question": "What influences the way people dress in today's society?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "困难决定终成功",
+      "question": "Do you think it's necessary for kids to make as many decisions by themselves as they can?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "困难决定终成功",
+      "question": "Do you think some people can make decisions without asking for advice from others?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "困难决定终成功",
+      "question": "Do you think young people are easily influenced by others when they make decisions? Why or why not?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "困难决定终成功",
+      "question": "What kinds of decisions do young people have to make?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "困难决定终成功",
+      "question": "Who do young people like to ask for advice when making decisions?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "困难决定终成功",
+      "question": "Do advertisements influence consumers' decisions?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "你的国家的名人",
+      "question": "What kinds of people are popular at work?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "你的国家的名人",
+      "question": "Are bosses more popular than employees at work?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "你的国家的名人",
+      "question": "Which one is more important, maintaining a good relationship with colleagues or doing well at work?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "你的国家的名人",
+      "question": "What benefits are there when a child is popular at school?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "你的国家的名人",
+      "question": "Are there any disadvantages if a child is popular at school?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "你的国家的名人",
+      "question": "Do you think popular children will grow up to be popular adults?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "庆祝过的活动",
+      "question": "Do people often celebrate festivals with families?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "庆祝过的活动",
+      "question": "Do people often celebrate events with a large group of people or just a few people?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "庆祝过的活动",
+      "question": "What kinds of events do people usually celebrate?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "庆祝过的活动",
+      "question": "Do you like to celebrate important events? Why?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "庆祝过的活动",
+      "question": "Why is it important to celebrate festivals?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "庆祝过的活动",
+      "question": "Do most people like to share their good news with others?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "想参加的比赛",
+      "question": "What are the contests commonly seen on TV programs?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "想参加的比赛",
+      "question": "Why are competition shows popular?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "想参加的比赛",
+      "question": "What kinds of industries need competition? Why?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "想参加的比赛",
+      "question": "Do you think it is necessary to encourage people to compete with one another in companies?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "想参加的比赛",
+      "question": "What kinds of people like to take part in competitions?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "想参加的比赛",
+      "question": "Do you think the ability to compete is natural or learned?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "收到特殊蛋糕",
+      "question": "Do you think it's good to communicate when eating with your family?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "收到特殊蛋糕",
+      "question": "Why are some people willing to spend a lot of money on meals on special days?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "收到特殊蛋糕",
+      "question": "Is there any food in your country that is eaten at special times or on special occasions?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "收到特殊蛋糕",
+      "question": "What are the differences between special food in China and other countries?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "收到特殊蛋糕",
+      "question": "What are the differences between special food in China and other countries?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "收到特殊蛋糕",
+      "question": "In your country, do people nowadays cook at home as frequently as people did in the past?",
+      "time": 120
+    },
+    {
+      "id": 7,
+      "topic": "收到特殊蛋糕",
+      "question": "What do you think of people using their mobile phones during a meal?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "童年喜欢的玩具",
+      "question": "How do advertisements influence children?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "童年喜欢的玩具",
+      "question": "Should advertising aimed at kids be prohibited?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "童年喜欢的玩具",
+      "question": "What's the difference between the toys kids play now and those they played in the past?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "童年喜欢的玩具",
+      "question": "Do you think parents should buy more toys for their kids or spend more time with them?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "童年喜欢的玩具",
+      "question": "What's the difference between the toys boys play with and girls play with?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "童年喜欢的玩具",
+      "question": "What are the advantages and disadvantages of modern toys?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "对社会有贡献的人",
+      "question": "What jobs are well- paid?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "对社会有贡献的人",
+      "question": "What are the changes in working conditions?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "对社会有贡献的人",
+      "question": "What are the impacts of the epidemic on the work environment?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "对社会有贡献的人",
+      "question": "Do you think younger people should be lower paid than older people?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "对社会有贡献的人",
+      "question": "What skills should be taught at school to improve students' ability to find jobs?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "对社会有贡献的人",
+      "question": "What kinds of jobs are not paid fairly?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "征求意见",
+      "question": "What are the disadvantages of sharing opinions on the Internet?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "征求意见",
+      "question": "Why do people like to express their opinions on the Internet nowadays?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "征求意见",
+      "question": "Are there any apps designed for collecting opinions about products or services?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "征求意见",
+      "question": "Why do some people dislike giving their opinions?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "征求意见",
+      "question": "Should teachers give advice to children?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "征求意见",
+      "question": "What should a company do when receiving feedback about its products?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "交通拥堵",
+      "question": "How can we solve the traffic jam problem?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "交通拥堵",
+      "question": "Do you think developing public transport can solve traffic jam problems?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "交通拥堵",
+      "question": "Do you think the high ways will help reduce traffic jams?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "交通拥堵",
+      "question": "What are good ways to manage traffic?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "交通拥堵",
+      "question": "Do you like to use public transport?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "交通拥堵",
+      "question": "Would you rather be in a car or a bus in a traffic jam?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "丢东西的经历",
+      "question": "What kinds of things do people usually lose?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "丢东西的经历",
+      "question": "What will people do when losing things?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "丢东西的经历",
+      "question": "Is it effective to offer rewards to find lost things?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "丢东西的经历",
+      "question": "What kinds of people may lose things often?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "丢东西的经历",
+      "question": "What can we do to reduce the possibility of losing things?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "丢东西的经历",
+      "question": "What do people often feel after losing things?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "有趣的城市",
+      "question": "What advantages can tourism bring to a city?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "有趣的城市",
+      "question": "Why do some young people like to live in cities?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "有趣的城市",
+      "question": "Do most elderly people live in the city or in the countryside?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "有趣的城市",
+      "question": "Do you think well -developed tourism will have negative effects on local people?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "有趣的城市",
+      "question": "What are the benefits of urbanization?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "有趣的城市",
+      "question": "Do you think the big cities in China today will become even larger in the future?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "别人讲述的故事",
+      "question": "Do young children like the same stories as older children?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "别人讲述的故事",
+      "question": "How has technology changed storytelling?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "别人讲述的故事",
+      "question": "How do people tell stories to children?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "别人讲述的故事",
+      "question": "Why do children like stories?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "别人讲述的故事",
+      "question": "Will smart devices affect the relationship between children and parents?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "别人讲述的故事",
+      "question": "Which do you think is better, paper books or e -books?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "不喜欢并想要改变的规则",
+      "question": "What are the rules students should follow at school?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "不喜欢并想要改变的规则",
+      "question": "Are the rules at school good or bad? Why?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "不喜欢并想要改变的规则",
+      "question": "What rules should children follow at home?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "不喜欢并想要改变的规则",
+      "question": "How are people punished when parking at a wrong spot?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "不喜欢并想要改变的规则",
+      "question": "When is it okay to break the rules?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "不喜欢并想要改变的规则",
+      "question": "Do you know anyone who has broken the law? How?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "节约时间的方法/ 改变",
+      "question": "What can people do to save time?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "节约时间的方法/ 改变",
+      "question": "Does technology help people save time? How and why?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "节约时间的方法/ 改变",
+      "question": "Do you think parents should be responsible for teaching children to save time?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "节约时间的方法/ 改变",
+      "question": "Do people who can manage time well become successful more easily?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "节约时间的方法/ 改变",
+      "question": "Is it necessary for children to learn time management?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "节约时间的方法/ 改变",
+      "question": "What can schools do to help students learn time management?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "安静的地方",
+      "question": "Is it easy to find quiet places in your country? Why?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "安静的地方",
+      "question": "How do people spend their leisure time in your country?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "安静的地方",
+      "question": "How does technology affect the way people spend their leisure time?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "安静的地方",
+      "question": "Do you think only old people have time for leisure?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "安静的地方",
+      "question": "Why do old people prefer to live in quiet places?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "安静的地方",
+      "question": "Why are there more noises made at home now than in the past?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "工作 /学习中的积极建议",
+      "question": "When should parents encourage their children?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "工作 /学习中的积极建议",
+      "question": "Should parents always encourage their children?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "工作 /学习中的积极建议",
+      "question": "Do you think negative feedback is more important than positive feedback? Why?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "工作 /学习中的积极建议",
+      "question": "Why is negative feedback as important as positive feedback at work or in study?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "工作 /学习中的积极建议",
+      "question": "Which is more important for adults in the workplace, positive feedback or negative feedback?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "工作 /学习中的积极建议",
+      "question": "Do you think people care about others' comments about them?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "好的人生变化",
+      "question": "Do you like new things or changes in life?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "好的人生变化",
+      "question": "Why do some people quit and change jobs?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "好的人生变化",
+      "question": "How do you adapt to changes in life?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "好的人生变化",
+      "question": "Who can adapt better to changes, children or adults?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "好的人生变化",
+      "question": "When things like getting married or moving home happen, what kinds of things",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "好的人生变化",
+      "question": "would you consider?",
+      "time": 120
+    },
+    {
+      "id": 7,
+      "topic": "好的人生变化",
+      "question": "What are the disadvantages when people keep making changes?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "保健方式",
+      "question": "How do children and old people keep fit and healthy?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "保健方式",
+      "question": "What do people normally do to keep fit and healthy in your country?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "保健方式",
+      "question": "How can parents help and guide their kids to keep healthy?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "保健方式",
+      "question": "Do you think it is good for governments to utilize popular celebrities to help",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "保健方式",
+      "question": "build health awareness?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "保健方式",
+      "question": "How can we use technology to keep fit?",
+      "time": 120
+    },
+    {
+      "id": 7,
+      "topic": "保健方式",
+      "question": "Should schools provide physical education to students? Why and how?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "坏掉又修好的东西",
+      "question": "Are IT -related jobs valued more by society?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "坏掉又修好的东西",
+      "question": "Is the quality of products worse than before?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "坏掉又修好的东西",
+      "question": "What kinds of things do people like to repair by themselves?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "坏掉又修好的东西",
+      "question": "Why do people like to get their mobile phones repaired in specialized stores?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "坏掉又修好的东西",
+      "question": "Do you think luxury products are of better quality?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "坏掉又修好的东西",
+      "question": "What kinds of things are easily repaired?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "一见且想再见的人",
+      "question": "How do people make friends in China?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "一见且想再见的人",
+      "question": "On what occasions do people like to make friends?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "一见且想再见的人",
+      "question": "Is it important to have the same hobbies and interests when making friends?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "一见且想再见的人",
+      "question": "What qualities make true friends?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "一见且想再见的人",
+      "question": "What can we do to leave a good impression on people we meet for the first time?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "一见且想再见的人",
+      "question": "What should we not talk about when we meet a person for the first time?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "送朋友的礼物",
+      "question": "When do people normally send gifts to others?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "送朋友的礼物",
+      "question": "Is it hard to choose a gift?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "送朋友的礼物",
+      "question": "Will people feel happy when receiving an expensive gift?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "送朋友的礼物",
+      "question": "Which do people give on traditional festivals, red envelopes or other kinds of gifts?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "送朋友的礼物",
+      "question": "What do people usually consider when buying gifts?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "送朋友的礼物",
+      "question": "Are there any unlucky things that people should not buy as gifts in your country?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "去过的乡村",
+      "question": "Do people in your country like to go hiking?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "去过的乡村",
+      "question": "Do most people prefer to live in big cities or in the countryside?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "去过的乡村",
+      "question": "Do people go to the countryside to travel or to live?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "去过的乡村",
+      "question": "What kind of people would like to stay in the countryside?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "去过的乡村",
+      "question": "What are the advantages and disadvantages of living in the countryside?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "去过的乡村",
+      "question": "What are the differences between the city and the countryside?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "想共度时光的人",
+      "question": "What kinds of people are easy to get along with?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "想共度时光的人",
+      "question": "How do leaders get along with their subordinates?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "想共度时光的人",
+      "question": "Do people have time for themselves nowadays?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "想共度时光的人",
+      "question": "Do you like talking with older people? Why?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "想共度时光的人",
+      "question": "Do you think it's important to spend some time alone?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "想共度时光的人",
+      "question": "Do you think it is important for us to get along with different kinds of people?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "壮志未酬",
+      "question": "What ambitions do children usually have?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "壮志未酬",
+      "question": "Why are some people very ambitious in their work?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "壮志未酬",
+      "question": "Why don't some people have dreams?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "壮志未酬",
+      "question": "How do people balance work and life?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "壮志未酬",
+      "question": "Why do some people like to be the manager in the workplace?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "壮志未酬",
+      "question": "What are the traits of ambitious people?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "向长者学习的技能",
+      "question": "What can children learn from their parents?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "向长者学习的技能",
+      "question": "What kind of help do you think older people need?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "向长者学习的技能",
+      "question": "What skills can young people learn from older people?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "向长者学习的技能",
+      "question": "What knowledge can children learn from their grandparents?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "向长者学习的技能",
+      "question": "What new skills can old people learn?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "向长者学习的技能",
+      "question": "Do you think many old people in your country feel lonely?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "用手机做重要事情",
+      "question": "What do you usually do with a cellphone?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "用手机做重要事情",
+      "question": "What are the differences between young people and old people",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "用手机做重要事情",
+      "question": "when using a cellphone?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "用手机做重要事情",
+      "question": "Which one is more important, using a cellphone to make phone calls or to read messages?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "用手机做重要事情",
+      "question": "Do you think there should be a law to stop people from making phone calls in public?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "用手机做重要事情",
+      "question": "What can be done to stop cellphone addiction?",
+      "time": 120
+    },
+    {
+      "id": 7,
+      "topic": "用手机做重要事情",
+      "question": "Do you think it is too late to call others at 11 or 12 o'clock at night?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "帮助小孩",
+      "question": "What can schools do to develop students' awareness of volunteering?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "帮助小孩",
+      "question": "Why is it necessary to do volunteer services?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "帮助小孩",
+      "question": "What can you do to help your neighbors?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "帮助小孩",
+      "question": "Do people in your country like to help neighbors?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "帮助小孩",
+      "question": "Why is it important to help neighbors?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "帮助小孩",
+      "question": "Should developed countries provide technologica l help to developing countries?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "免费物品",
+      "question": "Why do customers like to receive free gifts from companies?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "免费物品",
+      "question": "Is it good or bad for people to have free education in the future?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "免费物品",
+      "question": "Why should everyone have access to basic healthcare?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "免费物品",
+      "question": "Is it necessary to provide free public transportation?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "免费物品",
+      "question": "Will people be happy when they receive free things?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "免费物品",
+      "question": "What kinds of free service should be provided by the government?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "造福社会的工作",
+      "question": "What kind of jobs are well -paid in your country?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "造福社会的工作",
+      "question": "What kind of jobs receive a low income?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "造福社会的工作",
+      "question": "What kind of jobs deserve a high salary?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "造福社会的工作",
+      "question": "Do you think doctors should be well -paid?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "造福社会的工作",
+      "question": "Who should receive a higher salary, young people or older people?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "造福社会的工作",
+      "question": "Do you think schools should provide career advice to students?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "去过且推荐的宜居之地",
+      "question": "Why do people move from one place to another?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "去过且推荐的宜居之地",
+      "question": "What should people prepare before they move to a different city?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "去过且推荐的宜居之地",
+      "question": "What kinds of place do people in your country prefer to live in?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "去过且推荐的宜居之地",
+      "question": "What are the benefits of living close to one's workplace?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "去过且推荐的宜居之地",
+      "question": "What factors make a city liveable?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "去过且推荐的宜居之地",
+      "question": "Why do many people choose to move to big cities?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "改变世界的发明",
+      "question": "What is the most helpful innovation at home?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "改变世界的发明",
+      "question": "What household appliances make us lazy?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "改变世界的发明",
+      "question": "What kinds of inventions can be used at school?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "改变世界的发明",
+      "question": "Do you think A I will replace human teachers? Why?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "宜居之城",
+      "question": "What are the differences between cities and towns?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "宜居之城",
+      "question": "What has happened to towns and villages in recent years in your country?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "宜居之城",
+      "question": "What are the differences between big cities and small ones?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "宜居之城",
+      "question": "What factors will contribute to whether a place is good to live in or not?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "宜居之城",
+      "question": "What are the major changes that have happened in your city?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "宜居之城",
+      "question": "How different is life in the countryside to life in the city?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "喜欢买便宜货的人",
+      "question": "What are the differences between shopping in a shopping mall and in a street",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "喜欢买便宜货的人",
+      "question": "market?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "喜欢买便宜货的人",
+      "question": "Which is more commonly visited in China, shopping malls or street markets?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "喜欢买便宜货的人",
+      "question": "Is advertising important?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "喜欢买便宜货的人",
+      "question": "What are the disadvantages of shopping in a street market?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "喜欢买便宜货的人",
+      "question": "How do you buy cheap products?",
+      "time": 120
+    },
+    {
+      "id": 7,
+      "topic": "喜欢买便宜货的人",
+      "question": "Do you think things are more expensive in big shopping malls?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "重要植物",
+      "question": "What are the features of living in the countryside?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "重要植物",
+      "question": "Should schools teach children how to grow plants?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "重要植物",
+      "question": "Why do some people prefer to live in the countryside?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "重要植物",
+      "question": "Have new kinds of plants been grown in your city recently?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "重要植物",
+      "question": "Why do some people like to keep plants at home?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "重要植物",
+      "question": "Are there many trees in your city?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "历史建筑",
+      "question": "Why do people visit historical buildings?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "历史建筑",
+      "question": "Do Chinese people like to visit historical buildings?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "历史建筑",
+      "question": "Do most people agree to the government's funding to protect historical buildings?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "历史建筑",
+      "question": "Is it necessary to protect historical buildings?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "历史建筑",
+      "question": "What factors do people often consider when buying a house or an apartment?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "历史建筑",
+      "question": "What are the differences between today's houses and those in the past?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "音乐爱好者",
+      "question": "What do you think about playing music for children in class?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "音乐爱好者",
+      "question": "Why do many teachers incorporate music into the classroom ？",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "音乐爱好者",
+      "question": "Do you think there are any advantages to a shop with music playing?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "音乐爱好者",
+      "question": "Would people's shopping behaviour be affected in a shop with music?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "音乐爱好者",
+      "question": "What do you think would be the effect of background music in a film?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "音乐爱好者",
+      "question": "Why are musical movies so popular?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "穿最好的衫",
+      "question": "Do you think people need to wear formally in the workplace?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "穿最好的衫",
+      "question": "Why do some people like to wear traditional clothes?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "穿最好的衫",
+      "question": "Will traditional clothes disappear in the future?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "穿最好的衫",
+      "question": "Do old people change their style of dressing?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "穿最好的衫",
+      "question": "Why do some people like to wear expensive clothes?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "穿最好的衫",
+      "question": "Who would wear formal clothes more often, young people or old people?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "学习之地",
+      "question": "Do you like to learn on your own or with others?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "学习之地",
+      "question": "What's the difference between learning face- to-face with teachers and learning by yourself?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "学习之地",
+      "question": "Do you prefer to study at home or study in other places?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "学习之地",
+      "question": "What are the benefits of gaining work experience while studying?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "学习之地",
+      "question": "Do most people like to study in a noisy place?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "学习之地",
+      "question": "What are the advantages and disadvantages of studying with other people?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "迟到",
+      "question": "Are you a punctual person?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "迟到",
+      "question": "Do you think it is important to be on time?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "迟到",
+      "question": "Do you always avoid being late?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "迟到",
+      "question": "Why are people often late for meetings or appointments?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "迟到",
+      "question": "Are people in your country often late for meetings?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "迟到",
+      "question": "Do you think people are born with time management skills or they can develop them?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "昂贵地方",
+      "question": "Why do some people still use cash?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "昂贵地方",
+      "question": "Will the payment be paperless in the future?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "昂贵地方",
+      "question": "What do you think of the view that time is as important as money?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "昂贵地方",
+      "question": "Is it more important to choose a job with a high salary or with more time off?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "昂贵地方",
+      "question": "How important is it to have a variety of payment option?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "昂贵地方",
+      "question": "Why are things more expensive in some places than in others?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "别人做的特殊一餐",
+      "question": "Should students learn to cook at school?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "别人做的特殊一餐",
+      "question": "Do you think people's eating habits would change as they get older?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "别人做的特殊一餐",
+      "question": "Do people in your country like to learn to cook from TV programmes?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "别人做的特殊一餐",
+      "question": "What kinds of fast food are popular in China?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "别人做的特殊一餐",
+      "question": "Are there any people who wouldn't eat meat for their whole lives?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "别人做的特殊一餐",
+      "question": "What do you think about vegetarians?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "想换掉的东西",
+      "question": "Does consumption have any impact on the environment?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "想换掉的东西",
+      "question": "Why do people always want to buy new things to replace old ones?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "想换掉的东西",
+      "question": "Why do you think some people replace things more often than others?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "想换掉的东西",
+      "question": "Why do young people change things more often than old people?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "想换掉的东西",
+      "question": "Why do some people like to buy expensive things?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "想换掉的东西",
+      "question": "Why do some people prefer to buy things in the supermarket rather than online?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "想颁布的新法律",
+      "question": "What rules should students follow at school?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "想颁布的新法律",
+      "question": "Do people in your country usually obey the law?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "想颁布的新法律",
+      "question": "What kinds of behavior are considered as good behavior?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "想颁布的新法律",
+      "question": "Do you think children can learn about the law outside of school?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "想颁布的新法律",
+      "question": "What are the benefits for people to obey rules?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "想颁布的新法律",
+      "question": "How can parents teach children to obey rules?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "愉悦的公共交通之旅",
+      "question": "Why do people choose to travel by public transport?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "愉悦的公共交通之旅",
+      "question": "Why do more and more people like to travel by plane?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "愉悦的公共交通之旅",
+      "question": "Do you think offering free public transport will solve traffic problems in the city?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "愉悦的公共交通之旅",
+      "question": "What are the disadvantages of traveling by public transport?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "愉悦的公共交通之旅",
+      "question": "What do you think are the cheapest and most expensive means of transport?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "愉悦的公共交通之旅",
+      "question": "What are the difficulties that commuters face during rush hours?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "收到想要物品",
+      "question": "Should employees have their own goals?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "收到想要物品",
+      "question": "How should bosses reward employees?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "收到想要物品",
+      "question": "What kinds of gifts do young people like to receive as rewards?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "收到想要物品",
+      "question": "How should children spend their allowance money?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "收到想要物品",
+      "question": "Why do people like shopping more now than in the past?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "收到想要物品",
+      "question": "Do you think shopping is good for a country's economy?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "很开心认识的人（ *11月低频题）",
+      "question": "How can children feel happy?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "很开心认识的人（ *11月低频题）",
+      "question": "What's the difference between adults' and children's happiness?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "很开心认识的人（ *11月低频题）",
+      "question": "Do you think everyone shares a similar definition of happiness?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "很开心认识的人（ *11月低频题）",
+      "question": "Some people say that living in a happy city is boring. What do you think?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "很开心认识的人（ *11月低频题）",
+      "question": "Which do you think is more important in the workplace, happiness or high salaries?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "很开心认识的人（ *11月低频题）",
+      "question": "How can companies improve employee happiness?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "和朋友去的有趣地方 （*11月低频题）",
+      "question": "Why do people need friends?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "和朋友去的有趣地方 （*11月低频题）",
+      "question": "How do you communicate with friends?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "和朋友去的有趣地方 （*11月低频题）",
+      "question": "Why don't some people like to socialise?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "和朋友去的有趣地方 （*11月低频题）",
+      "question": "Can talking with people improve social skills?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "和朋友去的有趣地方 （*11月低频题）",
+      "question": "Does technology help people communicate better with others?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "和朋友去的有趣地方 （*11月低频题）",
+      "question": "Do you prefer to go out with a group of friends or just with a few close friends?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "有趣的老人",
+      "question": "Do you think old people and young people can share interests?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "有趣的老人",
+      "question": "What can old people teach young people?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "有趣的老人",
+      "question": "Is it easy for young people and old people to make friends with each other?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "有趣的老人",
+      "question": "Are there benefits when one person is interested in another person? Why?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "有趣的老人",
+      "question": "Do you think people are more selfish or self -centered now than in the past?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "有趣的老人",
+      "question": "What benefits can people get if they are self -centered?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "鼓励你达成目标的人",
+      "question": "Do you think children are more likely to achieve their goals if they are",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "鼓励你达成目标的人",
+      "question": "encouraged?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "鼓励你达成目标的人",
+      "question": "What should parents do if their children don't want to study?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "鼓励你达成目标的人",
+      "question": "Who do you think should set goals for children?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "鼓励你达成目标的人",
+      "question": "Who plays a more important role in children's education, parents or teachers?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "鼓励你达成目标的人",
+      "question": "Is money the only motivation for people to work hard?",
+      "time": 120
+    },
+    {
+      "id": 7,
+      "topic": "鼓励你达成目标的人",
+      "question": "Which is more important, competition or cooperation?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "少人去的景点",
+      "question": "Why do people visit tourist attractions?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "少人去的景点",
+      "question": "What makes a tourist attraction famous?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "少人去的景点",
+      "question": "Do local people like to visit local tourist attractions?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "少人去的景点",
+      "question": "Do you think tourism causes environmental damage?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "少人去的景点",
+      "question": "How can people prevent the environmental damage caused by tourism?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "少人去的景点",
+      "question": "Should all tourist attractions be free to the public?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "经常拍照的地方",
+      "question": "Do you like to take photos?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "经常拍照的地方",
+      "question": "Where do people often like to take photos?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "经常拍照的地方",
+      "question": "Who would like to take photos more often, young people or older people?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "经常拍照的地方",
+      "question": "Would you pay a lot of money to hire a photographer?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "经常拍照的地方",
+      "question": "Do you think being a photographer is a good job?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "经常拍照的地方",
+      "question": "On what occasions do people need formal photos?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "嘈杂地",
+      "question": "Do you think it is good for children to make noise?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "嘈杂地",
+      "question": "Should children not be allowed to make noise under any circumstances?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "嘈杂地",
+      "question": "What kinds of noises are there in our life?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "嘈杂地",
+      "question": "Which area is exposed to noise more, the city or the countryside?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "嘈杂地",
+      "question": "How would people usually respond to noises in your country?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "嘈杂地",
+      "question": "How can people consider others' feelings when chatting in public?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "冒风险",
+      "question": "How should parents teach their children what a risk is?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "冒风险",
+      "question": "What risks should parents tell their children to avoid?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "冒风险",
+      "question": "Why do some people like to watch risk -taking movies?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "冒风险",
+      "question": "What kinds of sports are dangerous but exciting?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "冒风险",
+      "question": "Why do some people enjoy dangerous sports?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "冒风险",
+      "question": "Who is more interested in taking risks, the young or the old?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "自然之地",
+      "question": "What kind of people like to visit natural places?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "自然之地",
+      "question": "What are the differences between a natural place and a city?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "自然之地",
+      "question": "Do you think that going to the park is the only way to get close to nature?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "自然之地",
+      "question": "What can people gain from going to natural places?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "自然之地",
+      "question": "Are there any wild animals in the city?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "自然之地",
+      "question": "Do you think it is a good idea to let animals stay in local parks for people to see ？",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "年轻人的偶像 （*11月低频题）",
+      "question": "What kinds of people are likely to be the role models for teenagers?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "年轻人的偶像 （*11月低频题）",
+      "question": "Is it important for children to have a role model?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "年轻人的偶像 （*11月低频题）",
+      "question": "Are there any differences between today's famous people and those of the past?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "年轻人的偶像 （*11月低频题）",
+      "question": "What qualities do famous people have?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "年轻人的偶像 （*11月低频题）",
+      "question": "What kinds of people are likely to become famous?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "年轻人的偶像 （*11月低频题）",
+      "question": "Do people tend to choose the best people as their role model?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "一张照片 /画",
+      "question": "Why do people take photos?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "一张照片 /画",
+      "question": "What do people use to take photos these days, cameras or phones?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "一张照片 /画",
+      "question": "Is it difficult for people to learn how to take good photos?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "一张照片 /画",
+      "question": "How do people keep their photos?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "一张照片 /画",
+      "question": "What photos do people often hang on the wall at home?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "一张照片 /画",
+      "question": "Is it necessary for students to learn art?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "看过并想尝试的运动",
+      "question": "Why do many people like to buy expensive sportswear for playing ball games?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "看过并想尝试的运动",
+      "question": "What kinds of sports games do young and old people like to watch in your country?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "看过并想尝试的运动",
+      "question": "Why do so many people like to watch sports games?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "看过并想尝试的运动",
+      "question": "Do you think that international sports games are for money?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "看过并想尝试的运动",
+      "question": "Many advertisers like to use sports stars endorsements. What do you think are the reasons?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "看过并想尝试的运动",
+      "question": "Do you think sportsmen would use the sports gears promoted in the commercials?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "聚会",
+      "question": "Why do people like parties?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "聚会",
+      "question": "Why do some people not like going to parties?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "聚会",
+      "question": "Do you think those who tend to stay at home are less healthy than those who often attend parties?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "聚会",
+      "question": "Do you think music and dancing are a must at a party?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "聚会",
+      "question": "What would you do if you were disturbed by a neighbour's party?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "聚会",
+      "question": "What are the differences between holding a party at home and in a public place?",
+      "time": 120
+    },
+    {
+      "id": 1,
+      "topic": "别人做的好决定",
+      "question": "Should parents make decisions for their children?",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "topic": "别人做的好决定",
+      "question": "Do you think parents are the best people to make decisions about their children's education?",
+      "time": 120
+    },
+    {
+      "id": 3,
+      "topic": "别人做的好决定",
+      "question": "At what age do you think children can be allowed to make decisions by themselves?",
+      "time": 120
+    },
+    {
+      "id": 4,
+      "topic": "别人做的好决定",
+      "question": "Why do most children find it difficult to make decisions?",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "topic": "别人做的好决定",
+      "question": "Should parents interfere in children's decision -making?",
+      "time": 120
+    },
+    {
+      "id": 6,
+      "topic": "别人做的好决定",
+      "question": "How should parents help their children make decisions?",
+      "time": 120
+    }
+  ]
+}
